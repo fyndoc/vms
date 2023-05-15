@@ -21,34 +21,10 @@ const sidebars = {
   tutorialSidebar: [
     'intro',
     'onboarding',
-    {
-      type: 'category',
-      label: 'Attribute Builder',
-      items: [
-        'pim/attribute-builder'
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Template Builder',
-      items: [
-        'pim/template-builder'
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Category Builder',
-      items: [
-        'pim/category-builder'
-      ],
-    },
-    {
-      type: 'category',
-      label: 'Product Dashboard',
-      items: [
-        'pim/product-dashboard'
-      ],
-    },
+    'pim/attribute-builder',
+    'pim/template-builder',
+    'pim/category-builder',
+    'pim/product-dashboard',
     {
       type: 'category',
       label: 'Task Management',
@@ -60,7 +36,6 @@ const sidebars = {
       ],
     },
   ],
-
 };
 
 module.exports = sidebars;
