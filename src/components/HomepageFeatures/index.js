@@ -4,32 +4,56 @@ import styles from './styles.module.css';
 
 const FeatureList = [
   {
-    title: 'Easy to Use',
-    Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
+    title: 'Attribute Builder',
+    Svg: require('@site/static/img/attribute.jpg').default,
     description: (
       <>
-        Docusaurus was designed from the ground up to be easily installed and
-        used to get your website up and running quickly.
+        Define and customize attributes allowing for detailed and comprehensive product information
       </>
     ),
   },
   {
-    title: 'Focus on What Matters',
-    Svg: require('@site/static/img/undraw_docusaurus_tree.svg').default,
+    title: 'Template Builder',
+    Svg: require('@site/static/img/template.jpg').default,
     description: (
       <>
-        Docusaurus lets you focus on your docs, and we&apos;ll do the chores. Go
-        ahead and move your docs into the <code>docs</code> directory.
+        Customize templates to match your brand's identity and effortlessly apply them to your products
       </>
     ),
   },
   {
-    title: 'Powered by React',
-    Svg: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'Category Builder',
+    Svg: require('@site/static/img/category.jpg').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Create and manage categories to ensure efficient navigation and intuitive product discovery
+      </>
+    ),
+  },
+  {
+    title: 'Product Dashboard',
+    Svg: require('@site/static/img/dashboard.jpg').default,
+    description: (
+      <>
+        Gain full visibility and control over your product data through our intuitive Product Dashboard
+      </>
+    ),
+  },
+  {
+    title: 'Task Creation',
+    Svg: require('@site/static/img/task.jpg').default,
+    description: (
+      <>
+        Streamline content acquisition, enrichment, and audit processes with our task creation module
+      </>
+    ),
+  },
+  {
+    title: 'Onboarding Flow',
+    Svg: require('@site/static/img/team.jpg').default,
+    description: (
+      <>
+        Simplify the onboarding process for brand and service providers with our intuitive onboarding flow
       </>
     ),
   },
@@ -39,7 +63,7 @@ function Feature({Svg, title, description}) {
   return (
     <div className={clsx('col col--4')}>
       <div className="text--center">
-        <Svg className={styles.featureSvg} role="img" />
+        <img src={Svg} className={styles.featureSvg} alt={title} />
       </div>
       <div className="text--center padding-horiz--md">
         <h3>{title}</h3>
