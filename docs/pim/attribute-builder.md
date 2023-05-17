@@ -1,8 +1,8 @@
 ---
 custom_edit_url: null
 hide_table_of_contents: true
-sidebar_label: Introduction
-title: Introduction to Catalog Cloud
+sidebar_label: Attribute Builder
+title: attribute-builder
 ---
 
 # Tutorial Intro
