@@ -32,3 +32,49 @@
 .hero--primary {
   --ifm-hero-background-color: #13235D;
 }
+
+
+.markdown p img {
+  display: block;
+  margin: 0 auto;
+}
+
+img[alt=QG1] {
+  width: 100px;
+}
+
+img[alt=QG2] {
+  width: 200px;
+}
+
+img[alt=QG3] {
+  width: 300px;
+}
+
+img[alt=QG4] {
+  width: 400px;
+}
+
+img[alt=QG5] {
+  width: 500px;
+}
+
+img[alt=QG6] {
+  width: 600px;
+}
+
+img[alt=QG7] {
+  width: 700px;
+}
+
+img[alt=QG8] {
+  width: 800px;
+}
+
+img[alt=QG9] {
+  width: 900px;
+}
+
+img[alt=QG10] {
+  width: 1000px;
+}

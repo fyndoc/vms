@@ -8,7 +8,7 @@ title: Introduction to Catalog Cloud
 
 ## Product Information Manager (PIM)
 
-Looking for a centralized solution to manage your catalog data effortlessly? Introducing Master Information Manager, a robust Product Information Manager (PIM) and Taxonomy tool designed to streamline catalog management processes. With Master Information Manager, you can maintain all your product data in one place, ensuring consistency and accuracy across your entire ecosystem.
+Looking for a centralised solution to manage your catalogue data effortlessly? Introducing Master Information Manager, a robust Product Information Manager (PIM) and Taxonomy tool designed to streamline catalogue management processes. With Master Information Manager, you can maintain all your product data in one place, ensuring consistency and accuracy across your entire ecosystem.
 
 ### Key Features
 
@@ -38,16 +38,16 @@ Efficiently manage content acquisition, enrichment, and audit workflows with our
 
 ---
 
-## Centralize and Enhance Your Catalog Management Efforts
+## Centralise and Enhance Your Catalogue Management Efforts
 
-Tired of juggling multiple systems for catalog management? Simplify your processes and elevate your catalog management efforts with our comprehensive solution. Our system offers a centralized control panel equipped with powerful tools to enhance productivity and ensure data consistency.
+Tired of juggling multiple systems for catalogue management? Simplify your processes and elevate your catalogue management efforts with our comprehensive solution. Our system offers a centralized control panel equipped with powerful tools to enhance productivity and ensure data consistency.
 
 ### Key Benefits
 
-* **Streamlined Data Management**: Centralize all your catalog data in one place, eliminating data silos and inconsistencies. Ensure accurate and up-to-date product information across all sales channels.
+* **Streamlined Data Management**: Centralize all your catalogue data in one place, eliminating data silos and inconsistencies. Ensure accurate and up-to-date product information across all sales channels.
 
 * **Enhanced Collaboration**: Facilitate seamless collaboration between teams with intuitive task assignment and communication features. Boost productivity and streamline content acquisition, enrichment, and audit workflows.
 
-* **SKU-Level Tracking and Monitoring**: Gain granular visibility into each SKU's progress and track its journey throughout the entire catalog management process. Stay informed and take timely actions to ensure efficient operations.
+* **SKU-Level Tracking and Monitoring**: Gain granular visibility into each SKU's progress and track its journey throughout the entire catalogue management process. Stay informed and take timely actions to ensure efficient operations.
 
 * **Customizable Workflows**: Tailor workflows to match your specific business requirements. Configure tasks, assign roles and permissions, and define approval processes to suit

@@ -1,50 +1,70 @@
 ---
 custom_edit_url: null
-hide_table_of_contents: true
+hide_table_of_contents: false
 sidebar_label: Onboarding
 title: Creating an Account
 ---
 
-# Tutorial Intro
+## Introduction
 
-Let's discover **Docusaurus in less than 5 minutes**.
+On Catalog Cloud, you can create an account as:
+* A brand
+* A vendor
 
-## Getting Started
+:::info When to choose Brand?
+If you're an organisation that wishes to perform complete catalogue data management, enrol as a **Brand**. As a brand, you can create tasks for the internal and external parties (vendors) to perform content acquisition, enrichment, audit, and many more.
+:::
 
-Get started by **creating a new site**.
+:::info When to choose Vendor?
 
-Or **try Docusaurus immediately** with **[docusaurus.new](https://docusaurus.new)**.
+If you're an organisation that wishes to offer services (say content enrichment) to a brand, enrol as a **Vendor**. The brand may periodically assign you tasks that you can accept and submit.
+:::
 
-### What you'll need
 
-- [Node.js](https://nodejs.org/en/download/) version 16.14 or above:
-  - When installing Node.js, you are recommended to check all checkboxes related to dependencies.
+---
 
-## Generate a new site
+## Onboarding Steps
 
-Generate a new Docusaurus site using the **classic template**.
+1. Go to <a href="https://www.xcatalogz5.de/" target="_blank">Catalog Cloud</a> website and sign up.
 
-The classic template will automatically be added to your project after you run the command:
+    ![QG7](https://cdn.pixelbin.io/v2/doc/original/vms/onboarding/signup.png)
+    <center><em>Figure 1: Visit The Website</em></center><br />
 
-```bash
-npm init docusaurus@latest my-website classic
-```
+2. On the sign up page, enter your organisation details, and click **Sign Up**. A verification link will be sent to your email ID. The organisation email and password you enter will become your login credentials.
 
-You can type this command into Command Prompt, Powershell, Terminal, or any other integrated terminal of your code editor.
+    ![QG7](https://cdn.pixelbin.io/v2/doc/original/vms/onboarding/details.png)
+    <center><em>Figure 2a: Create Your Credentials</em></center><br />
 
-The command also installs all necessary dependencies you need to run Docusaurus.
+    ![QG7](https://cdn.pixelbin.io/v2/doc/original/vms/onboarding/verify3.png)
+    <center><em>Figure 2b: Email Verification Screen</em></center><br />
 
-## Start your site
+3. Check your mailbox and click the **Verify email** button.
 
-Run the development server:
+    ![QG7](https://cdn.pixelbin.io/v2/doc/original/vms/onboarding/verify-email.png)
+    <center><em>Figure 3: Verifying Your Email</em></center><br />
 
-```bash
-cd my-website
-npm run start
-```
+4. Once the email ID is verified, click **Login**.
 
-The `cd` command changes the directory you're working with. In order to work with your newly created Docusaurus site, you'll need to navigate the terminal there.
+    ![QG7](https://cdn.pixelbin.io/v2/doc/original/vms/onboarding/login.png)
+    <center><em>Figure 4: Email Verification Successful</em></center><br />
 
-The `npm run start` command builds your website locally and serves it through a development server, ready for you to view at http://localhost:3000/.
+5. Enter the organisation email and password (set in step 2) and click the **Login** button.
 
-Open `docs/intro.md` (this page) and edit some lines: the site **reloads automatically** and displays your changes.
+    ![QG7](https://cdn.pixelbin.io/v2/doc/original/vms/onboarding/login2.png)
+    <center><em>Figure 5: Login</em></center><br />
+
+6. Create a new organisation if you're enrolling for the first time.
+
+    ![QG7](https://cdn.pixelbin.io/v2/doc/original/vms/onboarding/create-org.png)
+    <center><em>Figure 6: Welcome Page</em></center><br />
+
+7. Choose whether you wish to get onboarded as a brand or vendor, and fill the remaining details.
+    ![QG7](https://cdn.pixelbin.io/v2/doc/original/vms/onboarding/create-org2.png)
+    <center><em>Figure 7: Creating New Organisation</em></center><br />
+
+Your onboarding is successful. A dashboard screen would open if you onboarded yourself as a brand.
+
+![QG7](https://cdn.pixelbin.io/v2/doc/original/vms/onboarding/dashboard.png)
+<center><em>Figure 8: Dashboard</em></center><br />
+
+
