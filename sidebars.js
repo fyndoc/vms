@@ -21,7 +21,16 @@ const sidebars = {
   tutorialSidebar: [
     'intro',
     'onboarding',
-    'pim/attribute-builder',
+    {
+      type: 'category',
+      label: 'Attribute Builder',
+      items: [
+        'pim/attribute/attribute-builder-intro',
+        'pim/attribute/create-attributes',
+        'pim/attribute/manage-attributes',
+        'pim/attribute/deep-dive',
+      ],
+    },
     'pim/template-builder',
     'pim/category-builder',
     'pim/product-dashboard',
