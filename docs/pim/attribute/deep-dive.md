@@ -43,8 +43,8 @@ import TabItem from '@theme/TabItem';
     <p>
       <strong>Specific Settings:</strong>
         <ul>
-          <li><strong>Impose a Character Limit</strong></li>
-          <li><strong>Limit Characters to</strong></li>
+          <li><strong>Impose a Character Limit</strong></li> By enabling this toggle button, you can restrict the number of characters that the user can enter in the attribute value. This enables another field called 'Limit Characters to'.
+          <li><strong>Limit Characters to</strong></li> Choose the maximum number of characters the user can enter for the attribute.
         </ul>
     </p>
   </TabItem>
@@ -56,7 +56,7 @@ import TabItem from '@theme/TabItem';
       <strong>Example:</strong> For <code>Attribute = Download Link</code>, URL input can be <code>https://www.w3.org/testfiles/resources/pdf/dummy.pdf</code>
     </p>
     <p>
-      <strong>Specific Settings:</strong> NA.
+      <strong>Specific Settings:</strong> None
     </p>
   </TabItem>
   <TabItem value="List" label="List">
@@ -69,9 +69,14 @@ import TabItem from '@theme/TabItem';
     <p>
       <strong>Specific Settings:</strong>
       <ul>
-        <li><strong>Formatting</strong></li>
-        <li><strong>Restrict value</strong></li>
-        <li><strong>Add values</strong></li>
+        <li><strong>Formatting</strong></li> Choose the type of formatting you want to apply to the attribute value entered by the user.
+          <ul>
+            <li><strong>None</strong></li> Attribute value appears as entered by the user, e.g. for colour attribute, `Dark Blue` becomes `Dark Blue`.
+            <li><strong>Upper Case</strong></li> All characters in the attribute value would turn into capital letters, e.g. `Dark Blue` becomes `DARK BLUE`.
+            <li><strong>Lower Case</strong></li> All characters in the attribute value would turn into small letters, e.g. `Dark Blue` becomes `dark blue`
+          </ul>
+        <li><strong>Restrict value</strong></li> Choose this option to allow only specific values to be chosen for the attribute. This enables another field called 'Add values'.
+        <li><strong>Add values</strong></li> Use this option to add options to the dropdown list, one-by-one.
       </ul>
     </p>
   </TabItem>
@@ -96,8 +101,8 @@ import TabItem from '@theme/TabItem';
     <p>
       <strong>Specific Settings:</strong>
       <ul>
-        <li><strong>Min Value</strong></li>
-        <li><strong>Max Value</strong></li>
+        <li><strong>Min Value</strong></li>The minimum value that the user can enter, e.g. 1
+        <li><strong>Max Value</strong></li>The maximum value that the user can enter, e.g. 950
       </ul>
     </p>
   </TabItem>
@@ -111,8 +116,8 @@ import TabItem from '@theme/TabItem';
     <p>
       <strong>Specific Settings:</strong>
       <ul>
-        <li><strong>Min Value</strong></li>
-        <li><strong>Max Value</strong></li>
+        <li><strong>Min Value</strong></li>The minimum value that the user can enter, e.g. 0.05
+        <li><strong>Max Value</strong></li>The maximum value that the user can enter, e.g. 99.99
       </ul>
     </p>
   </TabItem>
@@ -140,7 +145,7 @@ import TabItem from '@theme/TabItem';
   </TabItem>
   <TabItem value="Media" label="Media">
     <p>
-      <strong>Description:</strong> Use it if you want the user to upload either image or video
+      <strong>Description:</strong> Use it if you want the user to upload image(s)
     </p>
     <p>
       <strong>Example:</strong> Not available
@@ -148,18 +153,18 @@ import TabItem from '@theme/TabItem';
     <p>
       <strong>Specific Settings:</strong>
       <ul>
-        <li><strong>Allow Multiple Images</strong></li>
-        <li><strong>Max Total File Size</strong></li>
-        <li><strong>Aspect Ratio</strong></li>
-        <li><strong>Dimension</strong></li>
-        <li><strong>Restrict Image File Type</strong></li>
-        <li><strong>Allowed Image formats</strong></li>
+        <li><strong>Allow Multiple Images</strong></li> Choose this option to allow user to upload more than one image for the attribute.
+        <li><strong>Max Total File Size</strong></li> Enter the acceptable combined size of multiple images. If a system has a Max Total File Size limit of 10 MB, it means that the sum of the sizes of all images being processed or uploaded should not exceed 10 MB.
+        <li><strong>Aspect Ratio</strong></li> Choose this option to accept only those images (from user) that meet the width-to-height ratio you select: 3:4, 4:3, 1:1, 16:9, and 9:16. An alternative called 'Dimension' also exists.
+        <li><strong>Dimension</strong></li> Choose this option to accept only those images (from user) that meet the width and height values you enter.
+        <li><strong>Restrict Image File Type</strong></li> By enabling this toggle button, you can restrict the image file format that the user can upload. This enables another field called 'Allowed Image formats'.
+        <li><strong>Allowed Image formats</strong></li> Choose the acceptable image file formats from the dropdown, e.g. JPG, PNG, WEBP.
       </ul>
     </p>
   </TabItem>
   <TabItem value="File" label="File">
     <p>
-      <strong>Description:</strong> Use it if you want the user to upload a file
+      <strong>Description:</strong> Use it if you want the user to upload file(s)
     </p>
     <p>
       <strong>Example:</strong> Not available
@@ -167,10 +172,10 @@ import TabItem from '@theme/TabItem';
     <p>
       <strong>Specific Settings:</strong>
       <ul>
-        <li><strong>Allow Multiple Files</strong></li>
-        <li><strong>Max Total File Size</strong></li>
-        <li><strong>Restrict File Type</strong></li>
-        <li><strong>Allowed File formats</strong></li>
+        <li><strong>Allow Multiple Files</strong></li> Choose this option to allow user to upload more than one file for the attribute.
+        <li><strong>Max Total File Size</strong></li> Enter the acceptable combined size of multiple files. If a system has a Max Total File Size limit of 10 MB, it means that the sum of the sizes of all files being processed or uploaded should not exceed 10 MB.
+        <li><strong>Restrict File Type</strong></li> By enabling this toggle button, you can restrict the file format that the user can upload. This enables another field called 'Allowed File formats'.
+        <li><strong>Allowed File formats</strong></li> Choose the acceptable file formats from the dropdown, e.g. PDF, CSV, PPT.
       </ul>
     </p>
   </TabItem>
