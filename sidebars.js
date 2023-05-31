@@ -31,8 +31,24 @@ const sidebars = {
         'pim/attribute/deep-dive',
       ],
     },
-    'pim/template-builder',
-    'pim/category-builder',
+    {
+      type: 'category',
+      label: 'Template Builder',
+      items: [
+        'pim/template/template-builder-intro',
+        'pim/template/create-templates',
+        'pim/template/manage-templates',
+      ],
+    },
+    {
+      type: 'category',
+      label: 'Category Builder',
+      items: [
+        'pim/category/category-builder-intro',
+        'pim/category/create-categories',
+        'pim/category/manage-categories',
+      ],
+    },
     'pim/product-dashboard',
     {
       type: 'category',

@@ -28,7 +28,7 @@ title: How to Create Attributes
 5. Enter the following fields in the **Attribute Details** section:
     * **Attribute Code** - Enter a unique value (numeric, alphabetic, or alphanumeric) that would help you distinguish an attribute from the rest.
 
-    * **Attribute Code** - Enter the name of the attribute, e.g. Colour.
+    * **Attribute Name** - Enter the name of the attribute, e.g. Colour.
 
     * **Attribute Type** - Choose the type of input you expect the user to enter, e.g. Number, Short Text, Media, etc. See [List of Attributes](##attribute-type).
 
