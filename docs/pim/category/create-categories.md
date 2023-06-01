@@ -5,9 +5,9 @@ sidebar_label: Create Categories
 title: How to Create Categories
 ---
 
-1. In the **Master Data** menu, go to **Categories** tab, and choose **Category**.
+1. In the **Settings** menu, go to **Categories** tab, and choose **Category**.
 
-    ![QG7](https://cdn.pixelbin.io/v2/doc/original/vms/category/category-path.png)
+    ![QG7](https://cdn.pixelbin.io/v2/doc/original/vms/category/category-nav.png)
     <center><em>Figure 1: Navigating To Category List</em></center><br />
 
 2. Click **Create Category**.

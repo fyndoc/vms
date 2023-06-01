@@ -49,7 +49,15 @@ const sidebars = {
         'pim/category/manage-categories',
       ],
     },
-    'pim/product-dashboard',
+    {
+      type: 'category',
+      label: 'Master Data',
+      items: [
+        'pim/master-data/master-data',
+        'pim/master-data/staged',
+        'pim/master-data/production',
+      ],
+    },
     {
       type: 'category',
       label: 'Task Management',

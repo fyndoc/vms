@@ -75,8 +75,9 @@ import TabItem from '@theme/TabItem';
             <li><strong>Upper Case</strong></li> All characters in the attribute value would turn into capital letters, e.g. `Dark Blue` becomes `DARK BLUE`.
             <li><strong>Lower Case</strong></li> All characters in the attribute value would turn into small letters, e.g. `Dark Blue` becomes `dark blue`
           </ul>
-        <li><strong>Restrict value</strong></li> Choose this option to allow only specific values to be chosen for the attribute. This enables another field called 'Add values'.
-        <li><strong>Add values</strong></li> Use this option to add options to the dropdown list, one-by-one.
+        <li><strong>Restrict Values</strong></li> Choose this option to allow only specific values to be chosen for the attribute. This enables another field called 'Allowed Values'.
+        <li><strong>Allowed Values</strong></li> Use this option to type and add options to the dropdown list, one-by-one.
+        <li><strong>Allow Multiple Values</strong></li> Enabling this will allow your users to choose more than one value for the attribute.
       </ul>
     </p>
   </TabItem>
@@ -153,12 +154,18 @@ import TabItem from '@theme/TabItem';
     <p>
       <strong>Specific Settings:</strong>
       <ul>
-        <li><strong>Allow Multiple Images</strong></li> Choose this option to allow user to upload more than one image for the attribute.
-        <li><strong>Max Total File Size</strong></li> Enter the acceptable combined size of multiple images. If a system has a Max Total File Size limit of 10 MB, it means that the sum of the sizes of all images being processed or uploaded should not exceed 10 MB.
-        <li><strong>Aspect Ratio</strong></li> Choose this option to accept only those images (from user) that meet the width-to-height ratio you select: 3:4, 4:3, 1:1, 16:9, and 9:16. An alternative called 'Dimension' also exists.
-        <li><strong>Dimension</strong></li> Choose this option to accept only those images (from user) that meet the width and height values you enter.
-        <li><strong>Restrict Image File Type</strong></li> By enabling this toggle button, you can restrict the image file format that the user can upload. This enables another field called 'Allowed Image formats'.
-        <li><strong>Allowed Image formats</strong></li> Choose the acceptable image file formats from the dropdown, e.g. JPG, PNG, WEBP.
+        <li><strong>Restrict Media Type</strong></li> By enabling this toggle button, you can restrict the file formats that the user can upload. This enables two more fields called 'Select Media Format' and 'Allowed Media formats'.
+          <ul>
+          <li><strong>Select Media Format</strong></li> Choose whether the user should enter images or videos.
+          <li><strong>Allowed Media formats</strong></li> If <code>Select Media Format = Images</code>, choose the acceptable image file formats from the dropdown, e.g. jpeg, png, gif, webp, jfif. If <code>Select Media Format = Videos</code>, choose the acceptable video file formats from the dropdown, e.g. mp4, mov. 
+          </ul>
+        <li><strong>Proportion Restriction</strong></li> If <code>Select Media Format = Images</code>, turning on this toggle button enables two more fields called 'Aspect Ratio' and 'Dimension'. 
+          <ul>
+          <li><strong>Aspect Ratio</strong></li> Choose this option to accept only those images (from user) that meet the width-to-height ratio you select: 3:4, 4:3, 1:1, 16:9, and 9:16. An alternative called 'Dimension' also exists.
+          <li><strong>Dimension</strong></li> Choose this option to accept only those images (from user) that meet the width and height values you enter.
+          </ul>  
+        <li><strong>Allow Multiple Uploads</strong></li> Choose this option to allow user to upload more than one image/video for the attribute.
+        <li><strong>Max Total File Size</strong></li> Enter the acceptable combined size of multiple images/videos. If a system has a Max Total File Size limit of 10 MB, it means that the sum of the sizes of all images/videos being processed or uploaded should not exceed 10 MB.
       </ul>
     </p>
   </TabItem>

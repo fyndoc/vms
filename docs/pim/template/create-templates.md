@@ -9,9 +9,9 @@ title: How to Create Templates
 Creation of a template involves the process of linking one or more categories to which the template should apply. Therefore, before creating a template, make sure you have created categories, see [Category Builder](/docs/pim/category/category-builder-intro) to know more. 
 :::
 
-In the **Master Data** menu, go to **Templates** tab, and click **Create Template**.
+In the **Settings** menu, go to **Templates** tab, and click **Create Template**.
 
-![QG7](https://cdn.pixelbin.io/v2/doc/original/vms/template/template-path.png)
+![QG7](https://cdn.pixelbin.io/v2/doc/original/vms/template/template-nav.png)
 <center><em>Figure 1: Templates Tab</em></center><br />
 
 The template creation consists of 3 sections:
