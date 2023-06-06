@@ -12,7 +12,7 @@ On Catalog Cloud, you can create an account as:
 * A vendor
 
 :::info When to choose Brand?
-If you're an organisation that wishes to perform complete catalogue data management, enrol as a **Brand**. As a brand, you can create tasks for the internal and external parties (vendors) to perform content acquisition, enrichment, audit, and many more.
+If you're an organisation that wishes to perform complete catalogue data management, enrol as a **Brand**. As a brand, you can create tasks for the internal team as well as external service providers and agencies (vendors) to perform content acquisition, enrichment, audit, and many more.
 :::
 
 :::info When to choose Vendor?
@@ -24,6 +24,10 @@ If you're an organisation that wishes to offer services (say content enrichment)
 ---
 
 ## Onboarding Steps
+
+There are two ways you can onboard yourself on Catalog Cloud; either by creating a new account, or by joining an existing account through an invite link.
+
+### Option 1: Creating a new account
 
 1. Go to <a href="https://www.xcatalogz5.de/" target="_blank">Catalog Cloud</a> website and sign up.
 
@@ -66,5 +70,18 @@ Your onboarding is successful. A dashboard screen would open if you onboarded yo
 
 ![QG7](https://cdn.pixelbin.io/v2/doc/original/vms/onboarding/dashboard.png)
 <center><em>Figure 8: Dashboard</em></center><br />
+
+### Option 2: Using an invite link
+
+1. If you have received an invite email from an existing organisation, click on the link. 
+
+2. Sign up and create your user account by entering email address, first name, last name and password.
+
+3. Once you sign up successfully, the organisation that invited you would be visible, click on it.
+
+    ![QG7](https://cdn.pixelbin.io/v2/doc/original/vms/onboarding/choose-organisation.png)
+    <center><em>Figure 9: Choose Org</em></center><br />
+
+Your onboarding is successful. The screens you see in the organisation account depends on the role granted to you.
 
 

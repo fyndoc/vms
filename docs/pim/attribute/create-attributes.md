@@ -36,7 +36,7 @@ title: How to Create Attributes
 
     * **Make this Mandatory** - Tick it if you want the user to compulsorily fill the attribute, without skipping.
 
-    * **Auto Sync to Production** - Tick it if you want the attribute value entered by the user go directly to the production database. This means, the value entered by the user may not undergo any content enrichment process.
+    * **Auto Sync to Production** - Tick it if you want the attribute value to go directly to the production database. This means, the attribute will not undergo any task management processes. Neither an audit, nor any content acquisition/content enrichment activity would be performed for the attribute. This is useful when the attribute value comes through a direct integration from a source, let's say SAP/ERP.
 
 6. The next section is **Visibility for Non-Admin VMS Users**. Here, non-admin users are those users who may belong to the vendor group (e.g. content enrichers) or your brand group (e.g. content acquirers). 
 
