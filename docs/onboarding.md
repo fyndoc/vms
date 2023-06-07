@@ -2,12 +2,12 @@
 custom_edit_url: null
 hide_table_of_contents: false
 sidebar_label: Onboarding
-title: Creating an Account
+title: Onboarding
 ---
 
 ## Introduction
 
-On Catalog Cloud, you can create an account as:
+On Catalog Cloud, you can onboard yourself as:
 * A brand
 * A vendor
 

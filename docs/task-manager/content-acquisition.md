@@ -51,13 +51,45 @@ You can also track a task from the **Task** menu (top navigation bar). It shows 
 
 1. Go to the **Tasks** menu of your organisation. It shows a list of all the tasks assigned to you.
 
-2. Click on the task. A **Task Details** page would open.
+2. Click on the task. A **Task Detail** page would open.
 
     :::info
     [Click here](/docs/task-manager/task-details.md) to know the meaning of each field on the **Task Details** page.
     :::
 
-3. 
+3. Click on the batch assigned to you under the **Batches** section. A list of SKUs assigned to you for content acquisition activity would be visible in the **Batch SKUs** page.
+
+4. Click on any SKU. An acquisition template would appear for that SKU.
+
+5. Fill the following details in the acquisition template:
+    * **Specs URL** - Enter a web link containing the entire specification and A-Z details about the SKU. This source data helps the content enricher understand the SKU in depth.
+    * **Image URL** - Enter the link of images of the SKU. This source data helps the content enricher get the bonafide images of the SKU which can be further enhanced by the enricher.
+    * **Attachment** - Add any other files (user guides, PDF, PPT) related to the SKU that would help the enricher.
+    * **Additional URL** - If required, you may add other web links for the enrichers to refer.
+    * **Rich Media** - Choose `Yes`, if you want the enrichers to add videos, images, multimedia links to the SKU.
+    * **Long Description** - Choose `Yes`, if you want the enrichers to add a long description of the SKU for the storefront customers to read.
+    * **Product Manual** - Choose `Yes`, if you want the enrichers to create a product manual for the SKU.
+    * **FAQs** - Choose `Yes`, if you want the enrichers to create a list of commonly asked questions for the storefront customers to read.
+    * **Support** - Choose `Yes`, if you want the enrichers to add support details.
+    * **Notes** - Add an informal note to the enrichers if required.
+    * **Priority** - You may set the priority to the SKU so that the enrichers know which SKUs to enrich first.
+
+6. Click **Submit**. The task status will show as `DONE`.
+
+In addition to the above details, there are 2 more options (buttons) available to you:
+* **Raise Query** - Use this option to raise an issue to the category team and get your queries resolved. The task status will show as `IN QUERY`.
+* **Don't Proceed** - Use this option if you have insufficient information about the SKU. This puts the SKU on hold and it will not move to the enrichment stage. The task status will show as `DO NOT PROCEED`.
+
+:::tip
+Instead of doing the above steps for each SKU, you can directly mark multiple SKUs as `DO NOT PROCEED` or `IN QUERY` from the **Batch SKUs** page as seen in step 3.
+:::
+
+
+ 
+
+
+
+
 
 
 
