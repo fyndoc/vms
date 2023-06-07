@@ -11,13 +11,13 @@ Content acquisition is the process of acquiring source data for the enrichment o
 
 This document is divided into 2 sections, click and read the one relevant to your role - 
 <div class="button-container">
-  <button class="member1"><a href="#for-catalogue-managers-reference">I am a catalogue manager</a></button>
-  <button class="member2"><a href="#for-content-acquirers-reference">I am a content acquirer</a></button>
+  <button class="member1"><a href="#guide-for-catalogue-manager">I am a catalogue manager</a></button>
+  <button class="member2"><a href="#guide-for-content-acquirer">I am a content acquirer</a></button>
 </div>
 
 ---
 
-## For Catalogue Manager's Reference
+## Guide for Catalogue Manager
 
 1. Go to **Master Data** → **Staged Master Data**.
 
@@ -47,28 +47,18 @@ You can also track a task from the **Task** menu (top navigation bar). It shows 
 
 ---
 
-## For Content Acquirer's Reference
+## Guide for Content Acquirer
 
-1. Go to **Tasks** menu of your organisation. It shows a list of all the tasks assigned to you.
+1. Go to the **Tasks** menu of your organisation. It shows a list of all the tasks assigned to you.
 
-2. Click on the task. A Task Details page would open, and it will show the following data - 
-    * **Task ID** - Alphanumeric ID to identify a task, e.g. TSK-125
-    * **Task Name** - Name of the task, e.g. `Smartphone SKU Data Sourcing`
-    * **Task Description** - A brief description for you to understand the purpose of the task.
-    * **Attachments** - Other attachments that might be relevant for you.
-    * **Batches** - Shows how the SKUs are divided between content acquirers. For example, if the catalogue manager had 300 SKUs attached to the task and assigned the task to 3 people (including you), you would get a batch of 100 SKUs to work upon. But if you are a single content acquirer the whole batch of 300 SKUs would be assigned to you.
-    * **Comments** - Helps you raise an issue for the admin to address.
-    * **Task Status** - Shows the status of the task. By default, a new task will show `In Progress` as the status.
-    * **Priority** - Shows the task priority (Low, Medium, High) for the you to understand the importance of the task.
-    * **Due date** - Shows the date and time by which you are expected to finish the task.
-    * **Created on** - Shows the date when the task was created.
-    * **Allocation type** - Shows whether the task is internal or external.
-    * **Assigned by** - Shows the name of the person who assigned you the task.
-    * **Total SKUs** - Shows the total number of SKUs the catalogue manager picked to create the task.
-    * **Done** - Shows the number of SKUs for which the content acquisition is complete.
-    * **In Progress** - Shows the number of SKUs for which content acquisition is in progress. Initially, all the SKUs would be in progress.
-    * **In Query** - Shows the number of SKUs for which queries have been raised and answers are expected from the brand. 
-    * **Don't Proceed** - Shows the number of SKUs which have been put on hold because either there were issues with those or because the content acquisition couldn't be done.
+2. Click on the task. A **Task Details** page would open.
+
+    :::info
+    [Click here](/docs/task-manager/task-details.md) to know the meaning of each field on the **Task Details** page.
+    :::
+
+3. 
+
 
 
 
