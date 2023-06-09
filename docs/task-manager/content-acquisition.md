@@ -33,17 +33,17 @@ This document is divided into 2 sections, click and read the one relevant to you
     * **Choose File** - If needed, attach other files that might be relevant for the CA team.
 
 5. In the **Task Assigning** section, enter the following details - 
-    * **Allocation Type** - Choose whether the task is for internal or external team. More often than not, content acquirers are internal to the brand, hence you may choose **Internal**.
+    * **Allocation Type** - Choose whether the task is for an internal or external team. More often than not, content acquirers are internal to the brand, hence you may choose **Internal**.
     * **Split Task** - You can decide how the task should be split between the content acquirers. There are namely 2 options - 
         * **No Split** - Choose this option if the task cannot be divided because there is only one content acquirer (1 member).
         * **Equally** -  Choose this option if you want to divide the CA task equally between members of a team or independent members. This enables another field called 'Assign'.
     * **Assign** - Assuming that you chose equal split earlier, you have 2 options - 
         * **Team** - If you have created a team of content acquirers, choose this option to divide the task equally between the members of that team. A dropdown to choose the team would appear. Example -  If you chose 100 SKUs and you have a 4-member team, each member gets 25 SKUs for which they have to acquire the source data.
-        * **Members** - If you have not created a team of content acquirers, choose this option to divide the task equally between individual content acquirers added to your organisation. A dropdown to choose the members would appear. Example -  If you chose 100 SKUs, and have a 3 independent content acquirers, first and second member get 33 SKUs each, and the third member gets 34 SKUs.
+        * **Members** - If you have not created a team of content acquirers, choose this option to divide the task equally between individual content acquirers added to your organisation. A dropdown to choose the members would appear. Example -  If you chose 100 SKUs, and have 3 independent content acquirers, the first and second member gets 33 SKUs each, and the third member gets 34 SKUs.
 
 6. Click **Create Task**. This will also generate a Task ID.
 
-You can also track a task from the **Task** menu (top navigation bar). It shows a list of all the tasks you created. The list helps you get a brief idea on the task type, status, deadline, assigned members, and many more.
+You can also track a task from the **Task** menu (top navigation bar). It shows a list of all the tasks you created. The list helps you get a brief idea of the task type, status, deadline, assigned members, and many more.
 
 ---
 
@@ -54,10 +54,10 @@ You can also track a task from the **Task** menu (top navigation bar). It shows 
 2. Click on the task. A **Task Detail** page would open.
 
     :::tip Reference
-    [Click here](/docs/task-manager/ca-task-details.md) to know the meaning of each field on the **Task Details** page.
+    [Click here](/docs/task-manager/ca-task-details.md) to know the meaning of each field on the **CA Task Details** page.
     :::
 
-3. Click on the batch assigned to you under the **Batches** section. A list of SKUs assigned to you for content acquisition activity would be visible in the **Batch SKUs** page.
+3. Click on the batch assigned to you under the **Batches** section. A list of SKUs assigned to you for content acquisition activity would be visible on the **Batch SKUs** page.
 
 4. Click on any SKU. An acquisition template would appear for that SKU.
 
@@ -66,7 +66,7 @@ You can also track a task from the **Task** menu (top navigation bar). It shows 
     * **Image URL** - Enter the link of images of the SKU. This source data helps the content enricher get the bonafide images of the SKU which can be further enhanced by the enricher.
     * **Attachment** - Add any other files (user guides, PDF, PPT) related to the SKU that would help the enricher.
     * **Additional URL** - If required, you may add other web links for the enrichers to refer.
-    * **Rich Media** - Choose `Yes`, if you want the enrichers to add videos, images, multimedia links to the SKU.
+    * **Rich Media** - Choose `Yes`, if you want the enrichers to add videos, images, or multimedia links to the SKU.
     * **Long Description** - Choose `Yes`, if you want the enrichers to add a long description of the SKU for the storefront customers to read.
     * **Product Manual** - Choose `Yes`, if you want the enrichers to create a product manual for the SKU.
     * **FAQs** - Choose `Yes`, if you want the enrichers to create a list of commonly asked questions for the storefront customers to read.
