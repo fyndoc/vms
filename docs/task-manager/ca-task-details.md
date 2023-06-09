@@ -6,7 +6,7 @@ title: CA Task Details
 ---
 
 * **Task ID** - Alphanumeric ID to identify a task, e.g. TSK-125
-* **Task Name** - Name given to the task
+* **Task Name** - Name given to the content acquisition task
 * **Task Description** - A brief description for you to understand the purpose of the task.
 * **Attachments** - Other attachments that might be relevant for you.
 * **Batches** - Shows how the SKUs are divided between content acquirers. For example, if the catalogue manager had 300 SKUs attached to the task and assigned the task to 3 people (including you), you would get a batch of 100 SKUs to work upon. But if you are a single content acquirer the whole batch of 300 SKUs would be assigned to you.

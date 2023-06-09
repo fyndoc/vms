@@ -53,7 +53,7 @@ You can also track a task from the **Task** menu (top navigation bar). It shows 
 
 2. Click on the task. A **Task Detail** page would open.
 
-    :::info
+    :::tip Reference
     [Click here](/docs/task-manager/ca-task-details.md) to know the meaning of each field on the **Task Details** page.
     :::
 
