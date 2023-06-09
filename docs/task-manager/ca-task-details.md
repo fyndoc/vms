@@ -1,8 +1,8 @@
 ---
 custom_edit_url: null
 hide_table_of_contents: false
-sidebar_label: Task Details
-title: Task Details
+sidebar_label: CA Task Details
+title: CA Task Details
 ---
 
 * **Task ID** - Alphanumeric ID to identify a task, e.g. TSK-125
