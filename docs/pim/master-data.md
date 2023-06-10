@@ -40,9 +40,9 @@ Here, you can perform the following actions:
 
 ## Production Master Data
 
-SKUs that have undergone the task management processes such as content acquisition, content enrichment, and audit, are present in Production Master Data.
+SKUs that have undergone all the task management processes such as content acquisition, content enrichment, and audit are present in the Production Master Data.
 
-SKUs synced to production after undergoing the task management processes would available in production database. Further, such SKUs will be available for consumption on sales channels or storefronts. 
+SKUs synced to production after undergoing the task management processes would be available in the production database. Further, such SKUs will be available for consumption on sales channels or storefronts. 
 
 :::note
 SKUs in production can undergo task management processes too (say partial content enrichment) if required.

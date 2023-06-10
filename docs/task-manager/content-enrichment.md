@@ -142,10 +142,12 @@ In addition to the above details, there are 2 more options (buttons) available t
 
 This is same as full content enrichment task (explained above) except for the following difference:
 
-You have to enrich only those attributes selected by the catalogue manager and not all the attributes present in the template attached to the SKU. In other words, once you click on an SKU (refer step 6 in [Full Content Enrichment Task](#full-content-enrichment-task)), you get only 3 tabs:
-* Sourcing
-* Selected Attributes
-* Query & Comments
+* SKUs present in partial enrichment task belong to the same category.
+
+* You have to enrich only those attributes selected by the catalogue manager and not all the attributes present in the template attached to the SKU. In other words, once you click on an SKU (refer step 6 of [Full Content Enrichment Task](#full-content-enrichment-task)), you get only 3 tabs:
+    * Sourcing
+    * Selected Attributes
+    * Query & Comments
 
 The **Selected Attributes** tab shows the attributes selected by the catalogue manager for you to enrich.
 

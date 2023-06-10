@@ -49,6 +49,7 @@ const sidebars = {
         'pim/category/manage-categories',
       ],
     },
+    'pim/relationships',
     'pim/master-data',
     {
       type: 'category',
@@ -57,7 +58,7 @@ const sidebars = {
         'task-manager/content-acquisition',
         'task-manager/content-enrichment',
         'task-manager/audit',
-        'task-manager/recall-archive'
+        'task-manager/archive-recall'
       ],
     },
   ],
