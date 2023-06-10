@@ -93,7 +93,7 @@ There are two types of content enrichment tasks you might receive: **Full Conten
 2. Click on the task. A **Task Detail** page would open.
 
     :::tip Reference
-    [Click here](/docs/task-manager/ce-task-details) to know the meaning of each field on the **CE Task Details** page.
+    [Click here](/docs/task-manager/extra/ce-task-details) to know the meaning of each field on the **Task Detail** page.
     :::
 
 3. If you are an external vendor, you can accept or reject a CE task. Click **Accept Task** to willingly take the CE task, or click **Reject** to not take the CE task. If you take the task, the SKUs move to `In Progress` state. 
@@ -110,6 +110,9 @@ There are two types of content enrichment tasks you might receive: **Full Conten
     * **Assign** - Assuming that you chose equal split earlier, you have 2 options - 
         * **Team** - If you have created a team of content enrichers, choose this option to divide the task equally between the members of that team. A dropdown to choose the team would appear. Example -  If you chose 100 SKUs and you have a 4-member team, each member gets 25 SKUs for which they have to enrich all the attributes.
         * **Members** - If you have not created a team of content enrichers, choose this option to divide the task equally between individual content enrichers added to your organisation. A dropdown to choose the members would appear. Example -  If you chose 100 SKUs, and have 3 independent content enrichers, the first and second member gets 33 SKUs each, and the third member gets 34 SKUs.
+    
+    
+    <br />
 
     :::tip info
     If you are an internal team member in the organisation, the system automatically splits the task into batches for you if the catalogue manager had chosen the split option while creating a CE task.
@@ -122,6 +125,8 @@ There are two types of content enrichment tasks you might receive: **Full Conten
     * **Mandatory** - Shows you the mandatory attributes you need to enrich. 
     * **Other** - Shows you the optional attributes you need to enrich. 
     * **Query & Comment** - Use this option to raise an issue to a concerned team and get your queries resolved. This will put the SKU from `In Progress` state to `In Query` state. 
+
+    <br />
 
     :::info Why do I see some non-editable attributes
     As an enricher, you might not be able to edit the attributes that were initially marked as non-editable by the Admin.

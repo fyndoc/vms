@@ -54,7 +54,7 @@ You can also track a task from the **Task** menu (top navigation bar). It shows 
 2. Click on the task. A **Task Detail** page would open.
 
     :::tip Reference
-    [Click here](/docs/task-manager/ca-task-details.md) to know the meaning of each field on the **CA Task Details** page.
+    [Click here](/docs/task-manager/extra/ca-task-details) to know the meaning of each field on the **Task Detail** page.
     :::
 
 3. Click on the batch assigned to you under the **Batches** section. A list of SKUs assigned to you for content acquisition activity would be visible on the **Batch SKUs** page.
