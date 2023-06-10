@@ -51,6 +51,13 @@ You can also track a task from the **Task** menu (top navigation bar). It shows 
 
 ## Guide for Auditor
 
+As an auditor, you have 3 responsibilities:
+* [Audit the enriched or production SKUs](#audit-the-skus)
+* [Create a new CE task for rejected SKUs](#create-a-task-for-rejected-skus)
+* [Move the approved SKUs to production](#move-the-skus-to-production)
+
+### Audit the SKUs
+
 1. Go to the **Tasks** menu of your organisation. It shows a list of all the tasks assigned to you.
 
 2. Click on the task. A **Task Detail** page would open.
@@ -87,14 +94,12 @@ In addition to the above details, there is 1 more option (button) available to y
 Instead of doing the above steps for each SKU, you can directly approve or reject multiple SKUs from the **Batch SKUs** page as seen in step 3.
 :::
 
-Once you complete the audit, you have 2 more responsibilities as an auditor:
-
-#### Create a new CE task for rejected SKUs
+### Create a task for rejected SKUs
 
 Select the rejected SKUs from the batch assigned to you under the **Batches** section (as seen in step 3 above). Next, refer the [content enrichment guide](/docs/task-manager/content-enrichment#guide-for-catalogue-manager) to know the process of creating a CE task, and assign it to the same CE team that initially performed the enrichment.
 
 
-#### Move the approved SKUs to production
+### Move the SKUs to production
 
 1. Go to **Master Data** → **Staged Master Data**.
 
