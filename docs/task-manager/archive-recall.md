@@ -9,7 +9,11 @@ title: Archive or Recall Tasks
 This document is only meant for those responsible for creating tasks, i.e. catalogue manager or admin
 :::
 
+## Introduction
+
 Assume you are a catalogue manager who assigned a task to a team. At a later point of time, you have the flexibility to archive the task or recall it. It's important to note that there is a difference between archive and recall, and you will learn it in this document.
+
+---
 
 ## Archiving a Task
 
