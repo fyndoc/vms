@@ -73,15 +73,16 @@ Your onboarding is successful. A dashboard screen would open if you onboarded yo
 
 ### Option 2: Using an invite link
 
-1. If you have received an invite email from an existing organisation, click on the link. 
+1. If you have received an invite email from an existing organisation, click on the link. It will take you to the Catalog Cloud website, and the organisation that invited you would be visible on the screen. 
 
-2. Sign up and create your user account by entering email address, first name, last name and password.
+2. Sign up and create your user account by entering first name, last name, and password.
 
-3. Once you sign up successfully, the organisation that invited you would be visible, click on it.
-
-    ![QG7](https://cdn.pixelbin.io/v2/doc/original/vms/onboarding/choose-organisation.png)
-    <center><em>Figure 9: Choose Org</em></center><br />
+3. Once you sign up successfully, you can log in to the organisation using your email address and password.
 
 Your onboarding is successful. The screens you see in the organisation account depends on the role granted to you.
+
+:::tip Read More
+[Click here](/docs/manage-account#inviting-a-member) to know the process of inviting a member to your organisation
+:::
 
 

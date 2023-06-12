@@ -16,7 +16,9 @@ All the details you entered while creating a template can be edited. This includ
 * Adding new attributes or removing previous attributes from a template
 * Activating/Deactivating an attribute group
 * Adding new attributes or removing previous attributes from a group
+* Rearranging the sequence of attributes in an attribute group
 * Adding/Deleting an attribute group
+* Rearranging the sequence of attribute groups
 * Linking/Unlinking a category tree
 * Activating/Deactivating a template
 * Deleting an entire template

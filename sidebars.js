@@ -21,6 +21,7 @@ const sidebars = {
   tutorialSidebar: [
     'intro',
     'onboarding',
+    // 'manage-account',
     {
       type: 'category',
       label: 'Attribute Builder',
@@ -50,7 +51,15 @@ const sidebars = {
       ],
     },
     'pim/relationships',
-    'pim/master-data',
+    {
+      type: 'category',
+      label: 'Master Data',
+      items: [
+        'master-data/intro',
+        'master-data/staged',
+        'master-data/production',
+      ],
+    },
     {
       type: 'category',
       label: 'Task Management',
@@ -58,7 +67,15 @@ const sidebars = {
         'task-manager/content-acquisition',
         'task-manager/content-enrichment',
         'task-manager/audit',
-        'task-manager/archive-recall'
+        {
+          type: 'category',
+          label: 'Miscellaneous',
+          items: [
+            'task-manager/extra/archive',
+            'task-manager/extra/recall',
+            'task-manager/extra/reassign',
+          ],
+        },
       ],
     },
   ],

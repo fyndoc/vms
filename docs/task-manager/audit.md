@@ -72,7 +72,7 @@ As an auditor, you have 3 responsibilities:
     * **Sourcing** - Shows you the content acquisition (CA) template filled by the content acquirer. The CA template helps you understand the SKU better before you begin its audit process. [Click here](/docs/task-manager/ca-template) to know the meaning of each field.
     * **Mandatory** - Shows you the mandatory attributes enriched by the CE team. 
     * **Other** - Shows you the optional enriched by the CE team. 
-    * **Query & Comment** -  Shows you the history of queries raised.
+    * **Query & Comment** -  (Visible only if you have raised a query) Shows you the history of queries raised.
 
     <br />
     
@@ -81,14 +81,15 @@ As an auditor, you have 3 responsibilities:
     :::
 
 5. Check whether the attribute data filled by the enrichers meet the enrichment criteria and source data given in the **Sourcing** tab. Next, you may take any of the 4 decisions:
-    * Use the thumbs down icon to reject the attribute, and mention the rejection reason for the CE team to know. If you do this, you will not be able to approve the SKU.
-    * Use the **Edit Attributes** option to change the attribute value yourself, instead of passing to the CE team. If you do this, you will be able to approve the SKU.
+    * Use the thumbs down icon to reject the attribute, and mention the rejection reason for the CE team to know. If you do this, you will not be able to approve the SKU. Once done, click the **Reject SKU** button. If you click the same thumbs down icon next to the rejected attribute again, the rejection will be undone and the comment will be removed.
+    * Use the **Edit Attributes** option to change the attribute value yourself, instead of passing to the CE team.
     * Use the **Reject SKU** button if you feel that majority of the enriched data failed to meet the quality standards, and mention the rejection reason for the CE team to know.
     * Use the **Accept SKU** button if you feel that the enriched data satisfies the quality standards. The attribute status will show as `DONE`.
 
 
-In addition to the above details, there is 1 more option (button) available to you:
-**Raise Query** - Use this option to raise an issue to the category team and get your queries resolved. The task status will show as `IN QUERY`.
+In addition to the above details, there might be more options (buttons) available to you:
+* **Raise Query** - Use this option to raise an issue to the category team and get your queries resolved. The task status will show as `IN QUERY`.
+* **Resolve Query** - (Visible only if you have raised a query) Use this option to close a query if you are satisfied with the resolution provided to you. The SKUs will come back to an `In Progress` state for you to work upon.
 
 :::tip
 Instead of doing the above steps for each SKU, you can directly approve or reject multiple SKUs from the **Batch SKUs** page as seen in step 3.

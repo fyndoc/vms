@@ -76,9 +76,10 @@ You can also track a task from the **Task** menu (top navigation bar). It shows 
 
 6. Click **Submit**. The task status will show as `DONE`.
 
-In addition to the above details, there are 2 more options (buttons) available to you:
+In addition to the above details, there are more options (buttons) available to you:
 * **Raise Query** - Use this option to raise an issue to the category team and get your queries resolved. The task status will show as `IN QUERY`.
-* **Don't Proceed** - Use this option if you have insufficient information about the SKU. This puts the SKU on hold and it will not move to the enrichment stage. The task status will show as `DO NOT PROCEED`.
+* **Resolve Query** - (Visible only if you have raised a query) Use this option to close a query if you are satisfied with the resolution provided to you. The SKUs will come back to an `In Progress` state for you to work upon.
+* **Don't Proceed** - Use this option if you have insufficient information about the SKU or if you have not received a proper resolution for the queries you raised. This puts the SKU on hold and it will not move to the enrichment stage. The task status will show as `DO NOT PROCEED`.
 
 :::tip
 Instead of doing the above steps for each SKU, you can directly mark multiple SKUs as `DO NOT PROCEED` or `IN QUERY` from the **Batch SKUs** page as seen in step 3.

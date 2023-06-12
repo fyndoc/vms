@@ -50,7 +50,7 @@ title: How to Create Categories
     ![QG7](https://cdn.pixelbin.io/v2/doc/original/vms/category/tree.png)
     <center><em>Figure 6: Adding More Trees</em></center><br />
 
-7. Moreover, you can add a mapping code, sales ID, and sales key.
+7. Moreover, you can add a mapping code (brick code), sales ID, and sales key if available.
 
     ![QG7](https://cdn.pixelbin.io/v2/doc/original/vms/category/mapping.png)
     <center><em>Figure 7: Mapping Sales ID</em></center><br />

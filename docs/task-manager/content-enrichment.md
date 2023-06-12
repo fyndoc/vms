@@ -124,19 +124,24 @@ There are two types of content enrichment tasks you might receive: **Full Conten
     * **Sourcing** - Shows you the content acquisition (CA) template filled by the content acquirer. The CA template helps you understand the SKU better before you begin its enrichment process. [Click here](/docs/task-manager/ca-template) to know the meaning of each field.
     * **Mandatory** - Shows you the mandatory attributes you need to enrich. 
     * **Other** - Shows you the optional attributes you need to enrich. 
-    * **Query & Comment** - Use this option to raise an issue to a concerned team and get your queries resolved. This will put the SKU from `In Progress` state to `In Query` state. 
+    * **Query & Comment** - (Visible only if you have raised a query) Shows you the query raised for the SKU and the comments provided by the concerned team.
 
     <br />
 
-    :::info Why do I see some non-editable attributes
+    :::tip Why do I see some non-editable attributes
     As an enricher, you might not be able to edit the attributes that were initially marked as non-editable by the Admin.
+    :::
+
+    :::info Why is there a question mark icon next to the attributes
+    The question marks are tooltips. If you hover upon it, it shows you the description of the attribute (if provided by the admin in [Attribute Builder](/docs/pim/attribute/create-attributes.md)). It is there to help you understand the purpose of the attribute before you enrich.
     :::
 
 7. Click **Submit** if you have completed the enrichment of the SKU. The task status will show as `DONE`. 
 
-In addition to the above details, there are 2 more options (buttons) available to you:
+In addition to the above details, there are more options (buttons) available to you:
 * **Save As Draft** - Use this option if you have not completed the enrichment but wish to save the details you filled.
-* **Resolve Query** - Use this option to close a query so that the SKU comes back to `In Progress` state for you to work upon.
+* **Raise Query** - Use this option to raise an issue to a concerned team and get your queries resolved. This will put the SKU from `In Progress` state to `In Query` state. 
+* **Resolve Query** - (Visible only if you have raised a query) Use this option to close a query if you are satisfied with the resolution provided to you. The SKUs will come back to an `In Progress` state for you to work upon.
 
 ### Partial Content Enrichment Task
 
@@ -150,6 +155,8 @@ This is same as full content enrichment task (explained above) except for the fo
     * Query & Comments
 
 The **Selected Attributes** tab shows the attributes selected by the catalogue manager for you to enrich.
+
+<!-- ### Asset Manager -->
 
 
 

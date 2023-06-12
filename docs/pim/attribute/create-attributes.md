@@ -30,13 +30,13 @@ title: How to Create Attributes
 
     * **Attribute Name** - Enter the name of the attribute, e.g. Colour.
 
-    * **Attribute Type** - Choose the type of input you expect the user to enter, e.g. Number, Short Text, Media, etc. See [List of Attributes](##attribute-type).
+    * **Attribute Type** - Choose the type of input you expect the user to enter, e.g. Number, Short Text, Media, etc. See [List of Attributes](##attribute-type). Let's choose `Short Text` as an example.
 
     * **Attribute Description** - Describe the attribute for the user to understand its purpose better.
 
     * **Make this Mandatory** - Tick it if you want the user to compulsorily fill the attribute, without skipping.
 
-    * **Auto Sync to Production** - Tick it if you want the attribute value to go directly to the production database. This means, the attribute will not undergo any task management processes. Neither an audit, nor any content acquisition/content enrichment activity would be performed for the attribute. This is useful when the attribute value comes through a direct integration from a source, let's say SAP/ERP.
+    * **Auto Sync to Production** - Tick it if you want the attribute value to go directly to the production database. This means, the attribute will not undergo any task management processes. Neither an audit, nor any content acquisition/content enrichment activity would be performed for the attribute. This is useful when the attribute value comes through a direct integration from a source, say SAP/ERP.
 
 6. The next section is **Visibility for Non-Admin VMS Users**. Here, non-admin users are those users who may belong to the vendor group (e.g. content enrichers) or your brand group (e.g. content acquirers). 
 
@@ -71,11 +71,17 @@ title: How to Create Attributes
 
 8.  Add one or more tags to help you understand the nature of the attribute, for e.g. `appearance` tag for attributes such as colour, material, pattern, as shown in fig. 5b.
 
+    The purpose of tags is to that they can easily be searched in templates. In the template if you search with a tag called `appearance`, all attributes that have this tag would be listed at once so that you can add all of them together to the template. Read [selecting attributes for template](/docs/pim/template/create-templates#template-details--attribute-selection). 
+
     ![QG7](https://cdn.pixelbin.io/v2/doc/original/vms/attribute/new-attribute-1.png)
     <center><em>Figure 6a: Adding Tag</em></center><br />
 
     ![QG7](https://cdn.pixelbin.io/v2/doc/original/vms/attribute/tags.png)
     <center><em>Figure 6b: Sample Tag</em></center><br />
+
+    :::tip 
+    You can also search attributes on the attribute listing page using the tag filter.
+    :::
 
 9. The next section, i.e., **Specific Settings** depends on the attribute type you selected in the previous step. For example, settings for `Attribute Type = Short Text` may differ from those for `Attribute Type = Media`. See [All Specific Settings](#all-specific-settings) to know more. Since we chose short text as the attribute type, let's see the fields:
     

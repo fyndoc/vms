@@ -50,10 +50,10 @@ import TabItem from '@theme/TabItem';
   </TabItem>
   <TabItem value="URL" label="URL">
     <p>
-      <strong>Description:</strong> Use it if you want the user to enter a web address
+      <strong>Description:</strong> Use it if you want the user to enter a web address. The URL entered by the user must have a URL format as there will be validation performed in this case. A typical URL could have the form http://www.example.com/index.html, where <code>http</code> indicates a protocol, <code>www.example.com</code> is the hostname, and <code>index.html</code> is the file name.
     </p>
     <p>
-      <strong>Example:</strong> For <code>Attribute = Download Link</code>, URL input can be <code>https://www.w3.org/testfiles/resources/pdf/dummy.pdf</code>
+      <strong>Example:</strong> For <code>Attribute = Download Link</code>, URL input can be <code>http://www.example.com/index.html</code>
     </p>
     <p>
       <strong>Specific Settings:</strong> None
@@ -83,7 +83,7 @@ import TabItem from '@theme/TabItem';
   </TabItem>
   <TabItem value="HTML" label="HTML">
   <p>
-      <strong>Description:</strong> Use it if you want the user to enter an HTML code block
+      <strong>Description:</strong> Use it if you want the user to get an interactive editor. If you add images and text it will create an HTML code. Whereas, if you add a code, it shows an editor view.
     </p>
     <p>
       <strong>Example:</strong> Not Available
@@ -154,7 +154,7 @@ import TabItem from '@theme/TabItem';
     <p>
       <strong>Specific Settings:</strong>
       <ul>
-        <li><strong>Restrict Media Type</strong></li> By enabling this toggle button, you can restrict the file formats that the user can upload. This enables two more fields called 'Select Media Format' and 'Allowed Media formats'.
+        <li><strong>Restrict Media Type</strong></li> When this toggle button is disabled, user can upload both images and videos. By enabling this toggle button, you can restrict the file formats that the user can upload (either images or videos, but not both). This enables two more fields called 'Select Media Format' and 'Allowed Media formats'.
           <ul>
           <li><strong>Select Media Format</strong></li> Choose whether the user should enter images or videos.
           <li><strong>Allowed Media formats</strong></li> If <code>Select Media Format = Images</code>, choose the acceptable image file formats from the dropdown, e.g. jpeg, png, gif, webp, jfif. If <code>Select Media Format = Videos</code>, choose the acceptable video file formats from the dropdown, e.g. mp4, mov. 
@@ -165,7 +165,7 @@ import TabItem from '@theme/TabItem';
           <li><strong>Dimension</strong></li> Choose this option to accept only those images (from user) that meet the width and height values you enter.
           </ul>  
         <li><strong>Allow Multiple Uploads</strong></li> Choose this option to allow user to upload more than one image/video for the attribute.
-        <li><strong>Max Total File Size</strong></li> Enter the acceptable combined size of multiple images/videos. If a system has a Max Total File Size limit of 10 MB, it means that the sum of the sizes of all images/videos being processed or uploaded should not exceed 10 MB.
+        <li><strong>Max Total File Size</strong></li> Enter the maximum size limit of multiple images/videos combined. If a system has a Max Total File Size limit of 10 MB, it means that the sum of the sizes of all images/videos being processed or uploaded should not exceed 10 MB.
       </ul>
     </p>
   </TabItem>
@@ -180,7 +180,7 @@ import TabItem from '@theme/TabItem';
       <strong>Specific Settings:</strong>
       <ul>
         <li><strong>Allow Multiple Files</strong></li> Choose this option to allow user to upload more than one file for the attribute.
-        <li><strong>Max Total File Size</strong></li> Enter the acceptable combined size of multiple files. If a system has a Max Total File Size limit of 10 MB, it means that the sum of the sizes of all files being processed or uploaded should not exceed 10 MB.
+        <li><strong>Max Total File Size</strong></li> Enter the maximum size limit of multiple files combined. If a system has a Max Total File Size limit of 10 MB, it means that the sum of the sizes of all files being processed or uploaded should not exceed 10 MB.
         <li><strong>Restrict File Type</strong></li> By enabling this toggle button, you can restrict the file format that the user can upload. This enables another field called 'Allowed File formats'.
         <li><strong>Allowed File formats</strong></li> Choose the acceptable file formats from the dropdown, e.g. PDF, CSV, PPT.
       </ul>
