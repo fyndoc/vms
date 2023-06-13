@@ -21,7 +21,7 @@ const sidebars = {
   tutorialSidebar: [
     'intro',
     'onboarding',
-    // 'manage-account',
+    'manage-account',
     {
       type: 'category',
       label: 'Attribute Builder',

@@ -97,4 +97,10 @@ title: How to Create Attributes
     ![QG7](https://cdn.pixelbin.io/v2/doc/original/vms/attribute/new-attribute-2.png)
     <center><em>Figure 7: Specific Settings</em></center><br />
 
-10. The next section is **JSONata**. Here, JSONata expressions are special instructions that you can use to find and fetch specific information from a JSON data structure. 
+10. The next section is **JSONata**. Read only if your SKUs flow through an external data source.
+
+    If you receive a JSON body containing the SKU details, a JSONata expression helps you parse that JSON and retrieve the value of an attribute. Moreover, it helps to map the attribute from the external data source with the attribute created by you in the system. Thereafter, the attribute values can flow seamlessly when the SKU is synced to production.
+
+    :::tip Reference
+    https://jsonata.org/
+    :::
