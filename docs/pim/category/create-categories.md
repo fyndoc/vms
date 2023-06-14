@@ -23,7 +23,7 @@ title: How to Create Categories
     ![QG7](https://cdn.pixelbin.io/v2/doc/original/vms/category/sample-category.png)
     <center><em>Figure 3a: Filling The Details</em></center><br />
 
-    Similarly, you can create as many categories as your require, using the **Create Category** button.
+    Similarly, you can create as many categories as you require, using the **Create Category** button.
 
     ![QG7](https://cdn.pixelbin.io/v2/doc/original/vms/category/more-category.png)
     <center><em>Figure 3b: Adding More Categories</em></center><br />

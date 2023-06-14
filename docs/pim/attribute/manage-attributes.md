@@ -24,6 +24,11 @@ Once you create an attribute, it might be possible that you want to edit the att
     ![QG7](https://cdn.pixelbin.io/v2/doc/original/vms/attribute/editing.png)
     <center><em>Figure 3: Saving The Edits</em></center><br />
 
+:::caution
+When editing attributes, especially Specific Settings, be cautious of reducing limits as it may break existing SKU data. For example, if you initially set the Max Total File Size for uploading images to the Media attribute as 10 MB, and a user uploads four 2 MB images, it succeeds because it's below the 10 MB limit. However, if you later decrease the Max Total File Size to 5 MB, the user's existing images may be affected. Avoid restricting limits once set. Increasing limits is better than decreasing.
+:::
+
+
 ---
 
 ## Activating/Deactivating Attributes

@@ -33,7 +33,6 @@ This document is divided into 2 sections, click and read the one relevant to you
     * **Choose File** - If needed, attach other files that might be relevant for the CA team.
 
 5. In the **Task Assigning** section, enter the following details - 
-    * **Allocation Type** - Choose whether the task is for an internal or external team. More often than not, content acquirers are internal to the brand, hence you may choose **Internal**.
     * **Split Task** - You can decide how the task should be split between the content acquirers. There are namely 2 options - 
         * **No Split** - Choose this option if the task cannot be divided because there is only one content acquirer (1 member).
         * **Equally** -  Choose this option if you want to divide the CA task equally between members of a team or independent members. This enables another field called 'Assign'.

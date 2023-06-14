@@ -15,7 +15,6 @@ title: CA Task Details
 * **Priority** - Shows the task priority (Low, Medium, High) for the you to understand the importance of the task.
 * **Due date** - Shows the date and time by which you are expected to finish the task.
 * **Created on** - Shows the date when the task was created.
-* **Allocation type** - Shows whether the task is internal or external.
 * **Assigned by** - Shows the name of the person who assigned you the task.
 * **Total SKUs** - Shows the total number of SKUs the catalogue manager picked to create the task.
 * **Done** - Shows the number of SKUs for which the content acquisition is complete.

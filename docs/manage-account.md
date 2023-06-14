@@ -12,7 +12,7 @@ The Manage Account section provides you to add and manage the following:
 * Information about your organisation
 * Members added to your organisation to perform tasks
 * Teams created by clubbing members as per their roles
-* External vendors that provide content enrichment services
+* External vendors that generally provide content enrichment services
 * Provision to integrate with external data source via API token
 
 To access the account section, click the organisation dropdown in the top-right and click **Manage Account**.
@@ -39,6 +39,8 @@ Here, you can view and edit the information of the organisation created on Catal
 ---
 
 ## Members
+
+The individuals added to the organisation with designated roles and permissions are known as members.
 
 Here you get 2 tabs:
 * **Active** - Here you can see the members added to your org, their role, and an option to activate/deactivate the member. By deactivating a member, the user can no longer sign in to the organisation.
@@ -79,10 +81,13 @@ You can create a separate CA team, CE team, auditing team, admin team
 
 ## Vendors
 
-You can add vendors to your organisation. These vendors are generally agencies that provide content enrichment services. Catalog Cloud already comes with a list of vendors for you to choose from.
+You can add vendors to your organisation. These vendors are generally agencies that provide content enrichment services (sometimes auditing services too). 
 
 1. Click the **Add Vendor** button.
-2. Choose the vendor you wish to add to your organisation. You can choose one or more vendors.
+2. Choose the vendor you wish to add to your organisation. You can choose one or more vendors from the dropdown.
+    :::info
+    The dropdown list contains only those organisations that enrolled as vendors on Catalog Cloud
+    :::
 3. Click **Save**.
 
 ---

@@ -82,7 +82,7 @@ As an auditor, you have 3 responsibilities:
 
 5. Check whether the attribute data filled by the enrichers meet the enrichment criteria and source data given in the **Sourcing** tab. Next, you may take any of the 4 decisions:
     * Use the thumbs down icon to reject the attribute, and mention the rejection reason for the CE team to know. If you do this, you will not be able to approve the SKU. Once done, click the **Reject SKU** button. If you click the same thumbs down icon next to the rejected attribute again, the rejection will be undone and the comment will be removed.
-    * Use the **Edit Attributes** option to change the attribute value yourself, instead of passing to the CE team.
+    * Use the **Edit Attributes** option to change the attribute value yourself. Make sure to click the **Save** button.
     * Use the **Reject SKU** button if you feel that majority of the enriched data failed to meet the quality standards, and mention the rejection reason for the CE team to know.
     * Use the **Accept SKU** button if you feel that the enriched data satisfies the quality standards. The attribute status will show as `DONE`.
 

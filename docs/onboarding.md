@@ -17,7 +17,7 @@ If you're an organisation that wishes to perform complete catalogue data managem
 
 :::info When to choose Vendor?
 
-If you're an organisation that wishes to offer services (say content enrichment) to a brand, enrol as a **Vendor**. The brand may periodically assign you tasks that you can accept and submit.
+If you're an organisation that wishes to offer services (say content enrichment or audit) to a brand, enrol as a **Vendor**. The brand may periodically assign you tasks that you can accept and submit.
 :::
 
 
