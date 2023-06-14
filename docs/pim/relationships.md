@@ -38,7 +38,7 @@ You can group SKUs together using relationship. The grouping can be of two types
     * **Relationship Name** - Give a name to the relationship, e.g. Bundle
     * **Relationship Description** - (Optional) Write a description to explain the relationship, e.g. *bundles are nothing but a main product supplemented with other products*
     * **Type** - Choose 'Parent-Child'
-    * **Maximum Quanity of Child SKUs** - The maximum number of supplementary products you can bundle together with a parent product.
+    * **Maximum Quanity of Child SKUs** - The total quantity of supplementary products you can bundle together with a parent product. Example: If a shirt is bundled with 1 tie and 2 bows, you should enter 3 quantity in this field.
     
 4. Click **Create Relationship**.
 

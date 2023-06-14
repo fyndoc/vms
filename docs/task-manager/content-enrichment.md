@@ -156,7 +156,45 @@ This is same as full content enrichment task (explained above) except for the fo
 
 The **Selected Attributes** tab shows the attributes selected by the catalogue manager for you to enrich.
 
-<!-- ### Asset Manager -->
+### Adding Media Assets in Bulk
+
+As seen in the above sections, content enrichment involves populating the attributes. If the attribute accepts media or files as an input, and if there are several such attributes for a given SKU, it might become tedious to upload the assets for all those attributes. 
+
+The complexity increases further if there are multiple SKUs requiring media or files in its attributes. The **Asset Manager** utility helps you upload media asssets in the easiest manner.
+
+1. Click the batch assigned to you for content enrichment.
+
+2. Choose the SKUs for which you want to upload assets in bulk.
+
+3. Click the **Asset Structure** option available on top of the list of SKUs. A zip file will be downloaded to your system.
+
+4. Extract the zip file.
+
+5. The folder structure will be as follows: **Organisation ID** → **SKU Name** → **Attribute Code**. 
+
+    :::info
+    The no. of folders present in the extracted parent folder = The no. of SKUs chosen in step 2
+    ::: 
+
+6. Go to each SKU folder, upload the assets in respective attribute folders.
+
+7. Compress the parent folder. The extension should be `.zip`.
+
+8. Return to the screen where you downloaded the asset structure. Make sure none of the SKUs are selected. Click the **Asset Manager** option.
+
+9. Use the file uploader utitily to upload your zip file.
+
+10. Click **Submit**. Your asset upload will initiate, and you can view its progress by clicking the **Upload History** button.
+
+:::note
+You can also perform partial asset upload. It means, for a given SKU, you can choose to insert the media files for some attribute folders and skip it for other attribute folders.
+:::
+
+
+
+
+
+
 
 
 

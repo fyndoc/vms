@@ -78,6 +78,13 @@ const sidebars = {
         },
       ],
     },
+    {
+      type: 'category',
+      label: 'Miscellaneous',
+      items: [
+        'misc/profile',
+      ],
+    },
   ],
 };
 
