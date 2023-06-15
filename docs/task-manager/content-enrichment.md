@@ -51,7 +51,7 @@ For a full enrichment task, SKUs may belong to multiple categories, but all the 
         * **Equally** -  Choose this option if you want to divide the CE task equally between members of a team or independent members. This enables another field called 'Assign'.
     * **Assign** - Assuming that you chose equal split earlier, you have 2 options - 
         * **Team** - If you have created a team of content enrichers, choose this option to divide the task equally between the members of that team. A dropdown to choose the team would appear. Example -  If you chose 100 SKUs and you have a 4-member team, each member gets 25 SKUs for which they have to enrich all the attributes.
-        * **Members** - If you have not created a team of content enrichers, choose this option to divide the task equally between individual content enrichers added to your organisation. A dropdown to choose the members would appear. Example -  If you chose 100 SKUs, and have 3 independent content enrichers, first and second member gets 33 SKUs each, and the third member gets 34 SKUs.
+        * **Members** - If you have not created a team of content enrichers, choose this option to divide the task equally between individual content enrichers added to your organisation. A dropdown to choose the members would appear. Example -  If you chose 100 SKUs, and have 3 independent content enrichers, the first and second member gets 33 SKUs each, and the third member gets 34 SKUs.
 
 6. Click **Create Task**. This will also generate a Task ID.
 
@@ -133,7 +133,7 @@ There are two types of content enrichment tasks you might receive: **Full Conten
     :::
 
     :::info Why is there a question mark icon next to the attributes
-    The question marks are tooltips. If you hover upon it, it shows you the description of the attribute (if provided by the admin in [Attribute Builder](/docs/pim/attribute/create-attributes.md)). It is there to help you understand the purpose of the attribute before you enrich.
+    The question marks are tooltips. If you hover over it, it shows you the description of the attribute (if provided by the admin in [Attribute Builder](/docs/pim/attribute/create-attributes.md)). It is there to help you understand the purpose of the attribute before you enrich it.
     :::
 
 7. Click **Submit** if you have completed the enrichment of the SKU. The task status will show as `DONE`. 
@@ -160,13 +160,13 @@ The **Selected Attributes** tab shows the attributes selected by the catalogue m
 
 As seen in the above sections, content enrichment involves populating the attributes. If the attribute accepts media or files as an input, and if there are several such attributes for a given SKU, it might become tedious to upload the assets for all those attributes. 
 
-The complexity increases further if there are multiple SKUs requiring media or files in its attributes. The **Asset Manager** utility helps you upload media asssets in the easiest manner.
+The complexity increases further if there are multiple SKUs requiring media or files in their attributes. The **Asset Manager** utility helps you upload media assets in the easiest manner.
 
 1. Click the batch assigned to you for content enrichment.
 
 2. Choose the SKUs for which you want to upload assets in bulk.
 
-3. Click the **Asset Structure** option available on top of the list of SKUs. A zip file will be downloaded to your system.
+3. Click the **Asset Structure** option available at the top of the list of SKUs. A zip file will be downloaded to your system.
 
 4. Extract the zip file.
 
@@ -176,13 +176,13 @@ The complexity increases further if there are multiple SKUs requiring media or f
     The no. of folders present in the extracted parent folder = The no. of SKUs chosen in step 2
     ::: 
 
-6. Go to each SKU folder, upload the assets in respective attribute folders.
+6. Go to each SKU folder, and upload the assets in respective attribute folders.
 
 7. Compress the parent folder. The extension should be `.zip`.
 
 8. Return to the screen where you downloaded the asset structure. Make sure none of the SKUs are selected. Click the **Asset Manager** option.
 
-9. Use the file uploader utitily to upload your zip file.
+9. Use the file uploader utility to upload your zip file.
 
 10. Click **Submit**. Your asset upload will initiate, and you can view its progress by clicking the **Upload History** button.
 

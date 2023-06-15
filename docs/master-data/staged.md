@@ -27,15 +27,15 @@ Here, you can perform the following actions:
 
 2. Fill the following details:
     * **SKU** - Enter the SKU code of the product. This can be an alphanumeric code, e.g. BLK-123. It uniquely identifies the product.
-    * **Grouped SKU** - (Optional) Enter a code that unique identifies a group of products, this is similar to item code.
-    * **Category Tree Code** - Use the dropdown to map a category tree to the SKU. The template attached to the selected category tree will be applicable to your SKU. In other words, the attributes from the template will be the attributes for that SKU.
+    * **Grouped SKU** - (Optional) Enter a code that uniquely identifies a group of products, this is similar to item code.
+    * **Category Tree Code** - Use the dropdown to map a category tree to the SKU. The template attached to the selected category tree will apply to your SKU. In other words, the attributes from the template will be the attributes for that SKU.
     :::note
-    The **Category Tree Code** dropdown contains only the category tree codes that already have a template mapped to it. The templates you created but not mapped to a category would not show up in the dropdown.
+    The **Category Tree Code** dropdown contains only the category tree codes that already have a template mapped to them. The templates you created but not mapped to a category would not show up in the dropdown.
     :::
 
 3. Click **Save**.
 
-The newly created SKUs would be in a `Raw` stage. 
+The newly created SKUs would be in the `Raw` stage. 
 
 Read the [task management section](/docs/task-manager/content-acquisition) to know more about how the SKUs are worked upon by content acquisition, content enrichment, and auditing teams.
 

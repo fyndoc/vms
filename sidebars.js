@@ -69,7 +69,7 @@ const sidebars = {
         'task-manager/audit',
         {
           type: 'category',
-          label: 'Miscellaneous',
+          label: 'Extras',
           items: [
             'task-manager/extra/archive',
             'task-manager/extra/recall',

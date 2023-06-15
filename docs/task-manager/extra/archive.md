@@ -11,9 +11,9 @@ This document is only meant for those responsible for creating tasks, i.e. catal
 
 ## Introduction
 
-Assume you are a catalogue manager who assigned a task to a team. At a later point of time, you have the flexibility to archive the task.
+Assume you are a catalogue manager who assigned a task to a team. At a later point in time, you have the flexibility to archive the task.
 
-Archiving is the process of halting a task. Let's say, you assigned a task of enriching 100 SKUs to the CE team. Assume that the CE team has worked upon 25 SKUs and you wish to archive the task. In such a situation, you will be able to archive the task with 75 SKUs returning from `In Progress` state to their previous state. The 25 SKUs with `DONE` status will be unaffected since they were already worked upon.
+Archiving is the process of halting a task. Let's say, you assigned a task of enriching 100 SKUs to the CE team. Assume that the CE team has worked on 25 SKUs and you wish to archive the task. In such a situation, you will be able to archive the task with 75 SKUs returning from `In Progress` state to their previous state. The 25 SKUs with `DONE` status will be unaffected since they were already worked upon.
 
 ---
 
@@ -32,5 +32,5 @@ Archiving is the process of halting a task. Let's say, you assigned a task of en
 The task status would show as `Archived` on the task listing page.
 
 :::tip Remember
-You can archive any type of tasks: Acquisition tasks, Enrichment tasks, or Audit tasks
+You can archive any type of task: Acquisition tasks, Enrichment tasks, or Audit tasks
 :::

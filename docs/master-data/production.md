@@ -19,7 +19,7 @@ SKUs in production can also undergo task management processes (say partial conte
 
 If you click an SKU in the production product data, you will get 3 tabs:
 
-* **Mandatory** - Shows all the mandatory attributes of the SKU, and the value filled within those attributes.
+* **Mandatory** - Shows all the mandatory attributes of the SKU and the value filled within those attributes.
 * **Other** - Shows all the option attributes of the SKU, and the values may or may not be empty.
 * **Content Acquisition Criteria** - Shows the Global CA template filled by the content acquisition team. The template is meant to help enrichers meet a couple of criteria during the content enrichment of the given SKU.
 * **SKU Grouping** - Here, you can group your SKUs and attach a relationship. You must create a relationship first using [Relationship Builder](/docs/pim/relationships.md) before attaching it to the SKUs.
@@ -30,7 +30,7 @@ If you click an SKU in the production product data, you will get 3 tabs:
 
 You can group SKUs based on variant relationship or parent-child relationship:
 * **Variant Relationship** - It means the given SKU has other variants such as colour variant, material variant, etc. For grouping SKUs under variant relationship, the SKUs must belong to the same template, e.g. footwear template.
-* **Parent Child Relationship** - It means the given SKU comes along with another related or unrelated SKU for sale.
+* **Parent-Child Relationship** - It means the given SKU comes along with another related or unrelated SKU for sale.
 
 ### Grouping SKUs as Variants
 
@@ -52,9 +52,9 @@ You can group SKUs based on variant relationship or parent-child relationship:
 
 3. The **Primary SKU** (non-editable field) indicates that the given SKU is itself the parent SKU. 
 
-4. From the **Choose SKUs to form group** dropdown, select one or more SKUs that are child of the given SKU.
+4. From the **Choose SKUs to form group** dropdown, select one or more SKUs that are child products of the given SKU.
 
-5. For each of the child SKU you added in the above step, add the quantity.
+5. For each of the child SKUs you added in the above step, add the quantity.
 
     :::tip Usecase
     Example: Bundling 4 speakers (child SKU) and 2 remotes (child SKU) with 1 TV (primary SKU)

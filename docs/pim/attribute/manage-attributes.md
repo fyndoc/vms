@@ -7,14 +7,14 @@ title: How to Manage Attributes
 
 ## Editing Attributes
 
-Once you create an attribute, it might be possible that you want to edit the attribute details, for e.g. adding better description, making an attribute mandatory/optional, and many more. Here are the steps involved in editing an attribute:
+Once you create an attribute, it might be possible that you want to edit the attribute details, for e.g. adding a better description, making an attribute mandatory/optional, and many more. Here are the steps involved in editing an attribute:
 
 1. Each attribute has an **Edit** option as shown below. You can either browse through the list of attributes or use the searchbar to find the attribute you wish to edit.
 
     ![QG7](https://cdn.pixelbin.io/v2/doc/original/vms/attribute/edit.png)
     <center><em>Figure 1: Editing Attribute</em></center><br />
 
-2. Except `Attribute Code` and `Attribute Type`, you may edit any other details of the attribute.
+2. Except for `Attribute Code` and `Attribute Type`, you may edit any other details of the attribute.
 
     ![QG7](https://cdn.pixelbin.io/v2/doc/original/vms/attribute/non-editable.png)
     <center><em>Figure 2: Forbidden Edits </em></center><br />
@@ -25,7 +25,7 @@ Once you create an attribute, it might be possible that you want to edit the att
     <center><em>Figure 3: Saving The Edits</em></center><br />
 
 :::caution
-When editing attributes, especially Specific Settings, be cautious of reducing limits as it may break existing SKU data. For example, if you initially set the Max Total File Size for uploading images to the Media attribute as 10 MB, and a user uploads four 2 MB images, it succeeds because it's below the 10 MB limit. However, if you later decrease the Max Total File Size to 5 MB, the user's existing images may be affected. Avoid restricting limits once set. Increasing limits is better than decreasing.
+When editing attributes, especially Specific Settings, be cautious of reducing limits as it may break existing SKU data. For example, if you initially set the Max Total File Size for uploading images to the Media attribute as 10 MB, and a user uploads four 2 MB images, it succeeds because it's below the 10 MB limit. However, if you later decrease the Max Total File Size to 5 MB, the user's existing images may be affected. Avoid restricting limits once set. Increasing limits is better than decreasing them.
 :::
 
 

@@ -5,7 +5,7 @@ sidebar_label: Create Categories
 title: How to Create Categories
 ---
 
-1. In the **Settings** menu, go to **Categories** tab, and choose **Category**.
+1. In the **Settings** menu, go to the **Categories** tab, and choose **Category**.
 
     ![QG7](https://cdn.pixelbin.io/v2/doc/original/vms/category/category-nav.png)
     <center><em>Figure 1: Navigating To Category List</em></center><br />
@@ -16,7 +16,7 @@ title: How to Create Categories
     <center><em>Figure 2: Creating Category</em></center><br />
 
 3. Enter the following fields:
-    * **Category Code** - Enter a unique value (numeric, alphabetic, or alphanumeric) that would help you distinguish an category from the rest.
+    * **Category Code** - Enter a unique value (numeric, alphabetic, or alphanumeric) that would help you distinguish a category from the rest.
 
     * **Category Name** - Enter the name of the category, e.g. Footwear.
 

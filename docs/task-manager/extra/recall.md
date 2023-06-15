@@ -11,9 +11,9 @@ This document is only meant for those responsible for creating tasks, i.e. catal
 
 ## Introduction
 
-Assume you are a catalogue manager who assigned a task to a team. At a later point of time, you have the flexibility to recall the task. 
+Assume you are a catalogue manager who assigned a task to a team. At a later point in time, you have the flexibility to recall the task. 
 
-Recalling is the process of rolling back the task and transferring it to someone else. Let's say, you assigned a task of enriching 300 SKUs to an external vendor. Assume that the vendor has worked upon 100 SKUs and you wish to recall the task. In such a situation, you will be able to recall the task with 200 SKUs returning from `In Progress` state to their previous state. The 100 SKUs with `DONE` status will be unaffected since they were already worked upon. 
+Recalling is the process of rolling back the task and transferring it to someone else. Let's say, you assigned a task of enriching 300 SKUs to an external vendor. Assume that the vendor has worked on 100 SKUs and you wish to recall the task. In such a situation, you will be able to recall the task with 200 SKUs returning from `In Progress` state to their previous state. The 100 SKUs with `DONE` status will be unaffected since they were already worked upon. 
 
 Next, you will get an option to create a new task out of the 200 SKUs you recalled. You can then assign the new task to some other vendor or team.
 

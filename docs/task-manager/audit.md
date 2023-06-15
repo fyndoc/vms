@@ -35,7 +35,7 @@ As a catalogue manager, you can create an audit task involving only those SKUs t
     * **Choose File** - If needed, attach other files that might be relevant for the auditing team.
 
 5. In the **Task Assigning** section, enter the following details - 
-    * **Allocation Type** - Choose whether the task is for an internal or external auditors. More often than not, auditors are internal to the brand, hence you may choose **Internal**.
+    * **Allocation Type** - Choose whether the task is for an internal or external auditor.
     * **Split Task** - You can decide how the task should be split between the auditors. There are namely 2 options - 
         * **No Split** - Choose this option if the task cannot be divided because there is only one auditor (1 member).
         * **Equally** -  Choose this option if you want to divide the task equally between members of the auditing team or independent auditors. This enables another field called 'Assign'.
@@ -81,10 +81,10 @@ As an auditor, you have 3 responsibilities:
     :::
 
 5. Check whether the attribute data filled by the enrichers meet the enrichment criteria and source data given in the **Sourcing** tab. Next, you may take any of the 4 decisions:
-    * Use the thumbs down icon to reject the attribute, and mention the rejection reason for the CE team to know. If you do this, you will not be able to approve the SKU. Once done, click the **Reject SKU** button. If you click the same thumbs down icon next to the rejected attribute again, the rejection will be undone and the comment will be removed.
+    * Use the thumbs-down icon to reject the attribute, and mention the rejection reason for the CE team to know. If you do this, you will not be able to approve the SKU. Once done, click the **Reject SKU** button. If you click the same thumbs-down icon next to the rejected attribute again, the rejection will be undone and the comment will be removed.
     * Use the **Edit Attributes** option to change the attribute value yourself. Make sure to click the **Save** button.
-    * Use the **Reject SKU** button if you feel that majority of the enriched data failed to meet the quality standards, and mention the rejection reason for the CE team to know.
-    * Use the **Accept SKU** button if you feel that the enriched data satisfies the quality standards. The attribute status will show as `DONE`.
+    * Use the **Reject SKU** button if you feel that the majority of the enriched data failed to meet the quality standards, and mention the rejection reason for the CE team to know.
+    * Use the **Accept SKU** button if you feel that the enriched data satisfy the quality standards. The attribute status will show as `DONE`.
 
 
 In addition to the above details, there might be more options (buttons) available to you:

@@ -64,7 +64,7 @@ You can also track a task from the **Task** menu (top navigation bar). It shows 
     * **Specs URL** - Enter a web link containing the entire specification and A-Z details about the SKU. This source data helps the content enricher understand the SKU in depth.
     * **Image URL** - Enter the link of images of the SKU. This source data helps the content enricher get the bonafide images of the SKU which can be further enhanced by the enricher.
     * **Attachment** - Add any other files (user guides, PDF, PPT) related to the SKU that would help the enricher.
-    * **Additional URL** - If required, you may add other web links for the enrichers to refer.
+    * **Additional URL** - If required, you may add other web links for the enrichers to refer to.
     * **Rich Media** - Choose `Yes`, if you want the enrichers to add videos, images, or multimedia links to the SKU.
     * **Long Description** - Choose `Yes`, if you want the enrichers to add a long description of the SKU for the storefront customers to read.
     * **Product Manual** - Choose `Yes`, if you want the enrichers to create a product manual for the SKU.

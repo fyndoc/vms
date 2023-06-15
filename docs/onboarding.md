@@ -16,7 +16,6 @@ If you're an organisation that wishes to perform complete catalogue data managem
 :::
 
 :::info When to choose Vendor?
-
 If you're an organisation that wishes to offer services (say content enrichment or audit) to a brand, enrol as a **Vendor**. The brand may periodically assign you tasks that you can accept and submit.
 :::
 
@@ -25,7 +24,7 @@ If you're an organisation that wishes to offer services (say content enrichment 
 
 ## Onboarding Steps
 
-There are two ways you can onboard yourself on Catalog Cloud; either by creating a new account, or by joining an existing account through an invite link.
+There are two ways you can onboard yourself on Catalog Cloud; either by creating a new account or by joining an existing account through an invite link.
 
 ### Option 1: Creating a new account
 
@@ -34,7 +33,7 @@ There are two ways you can onboard yourself on Catalog Cloud; either by creating
     ![QG7](https://cdn.pixelbin.io/v2/doc/original/vms/onboarding/signup.png)
     <center><em>Figure 1: Visit The Website</em></center><br />
 
-2. On the sign up page, enter your organisation details, and click **Sign Up**. A verification link will be sent to your email ID. The organisation email and password you enter will become your login credentials.
+2. On the sign-up page, enter your organisation details, and click **Sign Up**. A verification link will be sent to your email ID. The organisation email and password you enter will become your login credentials.
 
     ![QG7](https://cdn.pixelbin.io/v2/doc/original/vms/onboarding/details.png)
     <center><em>Figure 2a: Create Your Credentials</em></center><br />
@@ -62,7 +61,7 @@ There are two ways you can onboard yourself on Catalog Cloud; either by creating
     ![QG7](https://cdn.pixelbin.io/v2/doc/original/vms/onboarding/create-org.png)
     <center><em>Figure 6: Welcome Page</em></center><br />
 
-7. Choose whether you wish to get onboarded as a brand or vendor, and fill the remaining details.
+7. Choose whether you wish to get onboard as a brand or vendor, and fill the remaining details.
     ![QG7](https://cdn.pixelbin.io/v2/doc/original/vms/onboarding/create-org2.png)
     <center><em>Figure 7: Creating New Organisation</em></center><br />
 
@@ -75,7 +74,7 @@ Your onboarding is successful. A dashboard screen would open if you onboarded yo
 
 1. If you have received an invite email from an existing organisation, click on the **Accept invitation** button. It will take you to the Catalog Cloud website, and the organisation that invited you would be visible on the screen. 
 
-2. Sign up and create your user account by entering first name, last name, and password.
+2. Sign up and create your user account by entering your first name, last name, and password.
 
 3. Read and accept the privacy policy.
 

@@ -7,7 +7,7 @@ title: Introduction to Category Builder
 
 In e-commerce, categories refer to the way products or services are organised and grouped together based on their similarities or characteristics. Categories play a crucial role in providing structure and navigation for online stores, making it easier for customers to find and browse through the products they are interested in.
 
-Categories generally have a tree hierarchy (as shown below). Category Builder allows you to create such tree containing L1, L2, L3, L4, and more nodes if required.
+Categories generally have a tree hierarchy (as shown below). Category Builder allows you to create such a tree containing L1, L2, L3, L4, and more nodes if required.
 
 * **Electronics**
    - Computers & Accessories

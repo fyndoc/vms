@@ -9,7 +9,7 @@ title: How to Create Templates
 Creation of a template involves the process of linking one or more categories to which the template should apply. Therefore, before creating a template, make sure you have created categories, see [Category Builder](/docs/pim/category/category-builder-intro) to know more. 
 :::
 
-In the **Settings** menu, go to **Templates** tab, and click **Create Template**.
+In the **Settings** menu, go to the **Templates** tab, and click **Create Template**.
 
 ![QG7](https://cdn.pixelbin.io/v2/doc/original/vms/template/template-nav.png)
 <center><em>Figure 1: Templates Tab</em></center><br />
@@ -36,7 +36,7 @@ This process involves naming the template, describing it, and attaching attribut
     ![QG7](https://cdn.pixelbin.io/v2/doc/original/vms/template/new-details.png)
     <center><em>Figure 2b: Adding Details</em></center><br />
 
-2. Search the relevant attributes to attach to the template. For e.g. footwear template may require attributes like boot length, arch type, etc. but not attributes such as charging time, battery capacity, etc.
+2. Search the relevant attributes to attach to the template. For e.g. a footwear template may require attributes like boot length, arch type, etc. but not attributes such as charging time, battery capacity, etc.
 
     ![QG7](https://cdn.pixelbin.io/v2/doc/original/vms/template/link-attributes.png)
     <center><em>Figure 3: Linking Attributes</em></center><br />
@@ -50,7 +50,7 @@ This process involves naming the template, describing it, and attaching attribut
 
 ## Attribute Grouping
 
-Attribute grouping is the process of classifying the attributes in groups. For example, attributes such as length, width, height can be included in a group called as `Dimensions` or `Measurements`. Whereas, attributes such as colour, material, style, pattern can be included in a group called as `Appearance`. 
+Attribute grouping is the process of classifying the attributes in groups. For example, attributes such as length, width, height can be included in a group called `Dimensions` or `Measurements`. Whereas, attributes such as colour, material, style, pattern can be included in a group called `Appearance`. 
 
 1. Click **Create Attribute Group**.
 
@@ -81,14 +81,14 @@ Attribute grouping is the process of classifying the attributes in groups. For e
 
 ## Category Mapping
 
-Category mapping is the process of adding categories to your template. Therefore, whenever your users intend to create/manage products belonging to the category tree(s), your template would be displayed. Which means, the users will be shown only those attributes that were linked to your template.
+Category mapping is the process of adding categories to your template. Therefore, whenever your users intend to create/manage products belonging to the category tree(s), your template would be displayed. This means, the users will be shown only those attributes that were linked to your template.
 
 1. Click the **Components** dropdown.
 
     ![QG7](https://cdn.pixelbin.io/v2/doc/original/vms/template/map-template.png)
     <center><em>Figure 8: Mapping Category Trees</em></center><br />
 
-2. Attach one or more category tree to your template. 
+2. Attach one or more category trees to your template. 
 
     ![QG7](https://cdn.pixelbin.io/v2/doc/original/vms/template/choose-tree.png)
     <center><em>Figure 9: Adding Category Trees</em></center><br />
