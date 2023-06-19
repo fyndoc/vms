@@ -9,7 +9,7 @@ Once a category or category tree exists, there are certain actions that you can 
 
 **Things you can do**
 
-* Changing the category code or name of a category
+* Changing the name of a category
 * Adding a new category
 * Archiving an existing category
 * Adding a new category tree
@@ -17,4 +17,5 @@ Once a category or category tree exists, there are certain actions that you can 
 
 **Things you cannot do**
 
+* Changing the category code
 * Editing an existing category tree 
