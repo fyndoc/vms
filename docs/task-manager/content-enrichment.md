@@ -9,7 +9,7 @@ title: Content Enrichment
 
 Content enrichment involves improving and populating data in all attributes of a product. For example, some of the known attributes of a T-Shirt include sleeve type, sleeve length, neck type, colour, price, etc. For the customers to understand the product better, it's the content enricher's responsibility to ensure such attributes have enriched data.
 
-Content enrichment can be done by an internal team or external vendors/agencies, depending on the organisation. The content acquirer provides the source information and enrichment criteria to avoid incorrect information in the catalogue.
+Content enrichment can be done by an internal team or external vendors/agencies, depending on the organization. The content acquirer provides the source information and enrichment criteria to avoid incorrect information in the catalogue.
 
 This document is divided into 2 sections, click and read the one relevant to your role - 
 <div class="button-container">
@@ -51,7 +51,7 @@ For a full enrichment task, SKUs may belong to multiple categories, but all the 
         * **Equally** -  Choose this option if you want to divide the CE task equally between members of a team or independent members. This enables another field called 'Assign'.
     * **Assign** - Assuming that you chose equal split earlier, you have 2 options - 
         * **Team** - If you have created a team of content enrichers, choose this option to divide the task equally between the members of that team. A dropdown to choose the team would appear. Example -  If you chose 100 SKUs and you have a 4-member team, each member gets 25 SKUs for which they have to enrich all the attributes.
-        * **Members** - If you have not created a team of content enrichers, choose this option to divide the task equally between individual content enrichers added to your organisation. A dropdown to choose the members would appear. Example -  If you chose 100 SKUs, and have 3 independent content enrichers, the first and second member gets 33 SKUs each, and the third member gets 34 SKUs.
+        * **Members** - If you have not created a team of content enrichers, choose this option to divide the task equally between individual content enrichers added to your organization. A dropdown to choose the members would appear. Example -  If you chose 100 SKUs, and have 3 independent content enrichers, the first and second member gets 33 SKUs each, and the third member gets 34 SKUs.
 
 6. Click **Create Task**. This will also generate a Task ID.
 
@@ -88,7 +88,7 @@ There are two types of content enrichment tasks you might receive: **Full Conten
 
 ### Full Content Enrichment Task
 
-1. Go to the **Tasks** menu of your organisation. It shows a list of all the tasks assigned to you.
+1. Go to the **Tasks** menu of your organization. It shows a list of all the tasks assigned to you.
 
 2. Click on the task. A **Task Detail** page would open.
 
@@ -99,7 +99,7 @@ There are two types of content enrichment tasks you might receive: **Full Conten
 3. If you are an external vendor, you can accept or reject a CE task. Click **Accept Task** to willingly take the CE task, or click **Reject** to not take the CE task. If you take the task, the SKUs move to `In Progress` state. 
 
     :::info
-    If you are an internal team member in the organisation, there is no such flexibility to accept/reject a task. In that case, the SKUs would be in `In Progress` state by default.
+    If you are an internal team member in the organization, there is no such flexibility to accept/reject a task. In that case, the SKUs would be in `In Progress` state by default.
     :::
 
 4. If you are an external vendor, as a vendor manager, you can choose to further split the batch assigned to you by clicking **Split Batch** under the **Batches** section. Skip to step 5, if you are not a vendor manager. 
@@ -109,13 +109,13 @@ There are two types of content enrichment tasks you might receive: **Full Conten
     * **Equally** -  Choose this option if you want to divide the CE task equally between members of a team or independent members. This enables another field called 'Assign'.
     * **Assign** - Assuming that you chose equal split earlier, you have 2 options - 
         * **Team** - If you have created a team of content enrichers, choose this option to divide the task equally between the members of that team. A dropdown to choose the team would appear. Example -  If you chose 100 SKUs and you have a 4-member team, each member gets 25 SKUs for which they have to enrich all the attributes.
-        * **Members** - If you have not created a team of content enrichers, choose this option to divide the task equally between individual content enrichers added to your organisation. A dropdown to choose the members would appear. Example -  If you chose 100 SKUs, and have 3 independent content enrichers, the first and second member gets 33 SKUs each, and the third member gets 34 SKUs.
+        * **Members** - If you have not created a team of content enrichers, choose this option to divide the task equally between individual content enrichers added to your organization. A dropdown to choose the members would appear. Example -  If you chose 100 SKUs, and have 3 independent content enrichers, the first and second member gets 33 SKUs each, and the third member gets 34 SKUs.
     
     
     <br />
 
     :::tip info
-    If you are an internal team member in the organisation, the system automatically splits the task into batches for you if the catalogue manager had chosen the split option while creating a CE task.
+    If you are an internal team member in the organization, the system automatically splits the task into batches for you if the catalogue manager had chosen the split option while creating a CE task.
     :::
 
 5. Click on the batch assigned to you under the **Batches** section. A list of SKUs assigned to you for content enrichment activity would be visible on the **Batch SKUs** page.
@@ -170,7 +170,7 @@ The complexity increases further if there are multiple SKUs requiring media or f
 
 4. Extract the zip file.
 
-5. The folder structure will be as follows: **Organisation ID** → **SKU Name** → **Attribute Code**. 
+5. The folder structure will be as follows: **organization ID** → **SKU Name** → **Attribute Code**. 
 
     :::info
     The no. of folders present in the extracted parent folder = The no. of SKUs chosen in step 2

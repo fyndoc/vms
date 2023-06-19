@@ -41,7 +41,7 @@ As a catalogue manager, you can create an audit task involving only those SKUs t
         * **Equally** -  Choose this option if you want to divide the task equally between members of the auditing team or independent auditors. This enables another field called 'Assign'.
     * **Assign** - Assuming that you chose equal split earlier, you have 2 options - 
         * **Team** - If you have created a team of auditors, choose this option to divide the task equally between the members of that team. A dropdown to choose the team would appear. Example -  If you chose 100 SKUs and you have a 4-member team, each member gets 25 SKUs for which they have to validate the enriched data.
-        * **Members** - If you have not created a team of auditors, choose this option to divide the task equally between individual auditors added to your organisation. A dropdown to choose the members would appear. Example -  If you chose 100 SKUs, and have 3 independent auditors, the first and second member gets 33 SKUs each, and the third member gets 34 SKUs.
+        * **Members** - If you have not created a team of auditors, choose this option to divide the task equally between individual auditors added to your organization. A dropdown to choose the members would appear. Example -  If you chose 100 SKUs, and have 3 independent auditors, the first and second member gets 33 SKUs each, and the third member gets 34 SKUs.
 
 6. Click **Create Task**. This will also generate a Task ID.
 
@@ -58,7 +58,7 @@ As an auditor, you have 3 responsibilities:
 
 ### Audit the SKUs
 
-1. Go to the **Tasks** menu of your organisation. It shows a list of all the tasks assigned to you.
+1. Go to the **Tasks** menu of your organization. It shows a list of all the tasks assigned to you.
 
 2. Click on the task. A **Task Detail** page would open.
 

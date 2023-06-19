@@ -19,7 +19,7 @@ Reassigning is the process of transferring a task to someone else. Let's say, yo
 
 ## Steps to Reassign a Task
 
-1. Go to the **Tasks** menu of your organisation. It shows a list of all the tasks you created.
+1. Go to the **Tasks** menu of your organization. It shows a list of all the tasks you created.
 
 2. Click on the task you wish to reassign. A **Task Detail** page would open.
 

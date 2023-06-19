@@ -30,7 +30,7 @@ title: How to Create Attributes
 
     * **Attribute Name** - Enter the name of the attribute, e.g. Colour.
 
-    * **Attribute Type** - Choose the type of input you expect the user to enter, e.g. Number, Short Text, Media, etc. See [List of Attributes](##attribute-type). Let's choose `Short Text` as an example.
+    * **Attribute Type** - Choose the type of input you expect the user to enter, e.g. Number, Short Text, Media, etc. See [List of Attributes](/docs/pim/attribute/deep-dive). Let's choose `Short Text` as an example.
 
     * **Attribute Description** - Describe the attribute for the user to understand its purpose better.
 
