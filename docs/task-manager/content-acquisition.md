@@ -84,6 +84,42 @@ In addition to the above details, there are more options (buttons) available to 
 Instead of doing the above steps for each SKU, you can directly mark multiple SKUs as `DO NOT PROCEED` or `IN QUERY` from the **Batch SKUs** page as seen in step 3.
 :::
 
+### Adding Media Assets in Bulk
+
+If the content acquisition criteria requires you to upload media or files as an input, and if there are several such attributes for a given SKU, it might become tedious to upload the assets for all those attributes one-by-one. 
+
+The complexity increases further if there are multiple SKUs requiring media or files in their acquisition criteria. The **Asset Manager** utility helps you upload media assets in the easiest manner.
+
+1. Click the batch assigned to you for content acquisition.
+
+2. Choose the SKUs for which you want to upload assets in bulk.
+
+3. Click the **Asset Structure** option available at the top of the list of SKUs. A zip file will be downloaded to your system.
+
+4. Extract the zip file.
+
+5. The folder structure will be as follows: **organization ID** → **SKU Name** → **Attribute Code**. 
+
+    :::info
+    The no. of folders present in the extracted parent folder = The no. of SKUs chosen in step 2
+    ::: 
+
+6. Go to each SKU folder, and upload the assets in respective attribute folders.
+
+7. Compress the parent folder. The extension should be `.zip`.
+
+8. Return to the screen where you downloaded the asset structure. Make sure none of the SKUs are selected. Click the **Asset Manager** option.
+
+9. Use the file uploader utility to upload your zip file.
+
+10. Click **Submit**. Your asset upload will initiate, and you can view its progress by clicking the **Upload History** button.
+
+:::note
+You can also perform partial asset upload. It means, for a given SKU, you can choose to insert the media files for some attribute folders and skip it for other attribute folders.
+:::
+
+
+
 
  
 
