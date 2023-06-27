@@ -69,9 +69,9 @@ title: How to Create Attributes
     
     * **Comparable** - By enabling this, you allow customers to compare two or more products based on the attribute, e.g. screen size.
 
-8.  Add one or more tags to help you understand the nature of the attribute, for e.g. `appearance` tag for attributes such as colour, material, pattern, etc. as shown in fig. 5b.
+8.  Add one or more tags to help you understand the nature of the attribute, for e.g. `appearance` tag for attributes such as colour, material, pattern, etc.
 
-    The purpose of tags is to that they can easily be searched in templates. In the template, if you search with a tag called `appearance`, all attributes that have this tag would be listed at once so that you can add all of them together to the template. Read [selecting attributes for template](/docs/pim/template/create-templates#template-details--attribute-selection). 
+    The purpose of tags is to make it easy for the user to search and select attributes for the templates. For example, while creating a template, if you search with a tag called `appearance`, all attributes having this tag would be listed at once so that you can add all of them together to the template. Read [selecting attributes for template](/docs/pim/template/create-templates#template-details--attribute-selection). 
 
     ![QG7](https://cdn.pixelbin.io/v2/doc/original/vms/attribute/new-attribute-1.png)
     <center><em>Figure 6a: Adding Tag</em></center><br />
