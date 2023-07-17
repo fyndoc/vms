@@ -28,7 +28,7 @@ There are two ways you can onboard yourself on Catalog Cloud; either by creating
 
 ### Option 1: Creating a new account
 
-1. Go to <a href="https://www.xcatalogz5.de/" target="_blank">Catalog Cloud</a> website and sign up.
+1. Go to <a href="https://console.xcatalogz5.de/" target="_blank">Catalog Cloud</a> website and sign up.
 
     ![QG7](https://cdn.pixelbin.io/v2/doc/original/vms/onboarding/signup.png)
     <center><em>Figure 1: Visit The Website</em></center><br />
